@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.PropertyReferenceWithInterfacesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.002">
+  <properties/>
+  <testcase name="shouldBeAbleToReadPropertyValueFromPropertyReferenceDeclaredOnInterface" classname="javafx.beans.property.PropertyReferenceWithInterfacesTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

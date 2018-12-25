@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.BindingToStringTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.003">
+  <properties/>
+  <testcase name="testLongToString" classname="javafx.binding.BindingToStringTest" time="0.0"/>
+  <testcase name="testListToString" classname="javafx.binding.BindingToStringTest" time="0.002"/>
+  <testcase name="testBooleanToString" classname="javafx.binding.BindingToStringTest" time="0.0"/>
+  <testcase name="testFloatToString" classname="javafx.binding.BindingToStringTest" time="0.0"/>
+  <testcase name="testIntegerToString" classname="javafx.binding.BindingToStringTest" time="0.001"/>
+  <testcase name="testStringToString" classname="javafx.binding.BindingToStringTest" time="0.0"/>
+  <testcase name="testDoubleToString" classname="javafx.binding.BindingToStringTest" time="0.0"/>
+  <testcase name="testObjectToString" classname="javafx.binding.BindingToStringTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

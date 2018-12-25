@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.util.converter.ParameterizedConverterTest" tests="68" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:16" hostname="DESKTOP-CFPL3NK" time="0.014">
+  <properties/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[0]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[0]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[0]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[0]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.001"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[1]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[1]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[1]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[1]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[2]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[2]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[2]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[2]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[3]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[3]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[3]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[3]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.001"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[4]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[4]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[4]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.001"/>
+  <testcase name="toString_testNull[4]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[5]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.001"/>
+  <testcase name="fromString_testNull[5]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[5]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[5]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[6]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[6]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[6]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[6]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[7]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.001"/>
+  <testcase name="fromString_testNull[7]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[7]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[7]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[8]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[8]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[8]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[8]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[9]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[9]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[9]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[9]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[10]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[10]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[10]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[10]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[11]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[11]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[11]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[11]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[12]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[12]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[12]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[12]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[13]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[13]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[13]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.001"/>
+  <testcase name="toString_testNull[13]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[14]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[14]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[14]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[14]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[15]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[15]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.001"/>
+  <testcase name="fromString_testEmptyString[15]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[15]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.001"/>
+  <testcase name="fromString_testEmptyStringWithWhiteSpace[16]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testNull[16]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="fromString_testEmptyString[16]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <testcase name="toString_testNull[16]" classname="javafx.util.converter.ParameterizedConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

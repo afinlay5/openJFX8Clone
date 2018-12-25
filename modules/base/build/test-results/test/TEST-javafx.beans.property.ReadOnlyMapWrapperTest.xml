@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.ReadOnlyMapWrapperTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.016">
+  <properties/>
+  <testcase name="testUnbind" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.002"/>
+  <testcase name="testBindToNull" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testToString" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.001"/>
+  <testcase name="testRebind" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testLazyMap" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testLazyMapValue" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.001"/>
+  <testcase name="testLazyBind_generic" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testLazyBind_primitive" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testConstructor_Bean_Name_InitialValue" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testPublicEagerMap" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testPublicEagerMapValue" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.001"/>
+  <testcase name="testInternalEagerMapValue" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testInternalEagerMap" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testInternalEagerBind_generic" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testConstructor_InitialValue" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testPublicEagerBind_generic" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.001"/>
+  <testcase name="testConstructor_Bean_Name" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testConstructor_NoArguments" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testPublicEagerBind_primitive" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.001"/>
+  <testcase name="testNoReadOnlyPropertyCreated" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.001"/>
+  <testcase name="testRemoveListeners" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testInternalEagerBind_primitive" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <testcase name="testMapBoundValue" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.001"/>
+  <testcase name="testAddingListenerWillAlwaysReceiveInvalidationEvent" classname="javafx.beans.property.ReadOnlyMapWrapperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

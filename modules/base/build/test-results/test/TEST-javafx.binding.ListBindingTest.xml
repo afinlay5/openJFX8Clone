@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.ListBindingTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.04">
+  <properties/>
+  <testcase name="testSizeProperty" classname="javafx.binding.ListBindingTest" time="0.001"/>
+  <testcase name="testNoDependency_ListChangeListener" classname="javafx.binding.ListBindingTest" time="0.019"/>
+  <testcase name="testChangeContent_ListChangeListener" classname="javafx.binding.ListBindingTest" time="0.0"/>
+  <testcase name="testChangeContent_InvalidationListener" classname="javafx.binding.ListBindingTest" time="0.0"/>
+  <testcase name="testSingleDependency_ListChangeListener" classname="javafx.binding.ListBindingTest" time="0.019"/>
+  <testcase name="testEmptyProperty" classname="javafx.binding.ListBindingTest" time="0.001"/>
+  <testcase name="testChangeContent_ChangeListener" classname="javafx.binding.ListBindingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.util.converter.NumberStringConverterTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:16" hostname="DESKTOP-CFPL3NK" time="0.001">
+  <properties/>
+  <testcase name="getNumberFormat_nonNullNumberFormat" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInputWithWhiteSpace" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInput" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testInvalidInput" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="getNumberFormat_nonNullPattern" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="testDefaultConstructor" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor_locale" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor_numberFormat" classname="javafx.util.converter.NumberStringConverterTest" time="0.001"/>
+  <testcase name="toString_validInput" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor_locale_pattern" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="getNumberFormat_default" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor_pattern" classname="javafx.util.converter.NumberStringConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.BindingsMapTest" tests="41" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.019">
+  <properties/>
+  <testcase name="testSize" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testSize_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testIsNotEmpty" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testIsEmpty" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testIsEmpty_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testLongValueAt_Constant" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testLongValueAt_Constant_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testStringValueAt_Variable" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testStringValueAt_Variable_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testIsNotEmpty_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testValueAt_Constant_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testDoubleValueAt_Constant" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testIntegerValueAt_Variable" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testLongValueAt_Variable_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testValueAt_Variable_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testBooleanValueAt_Variable_Null" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testDoubleValueAt_Constant_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testFloatValueAt_Constant_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testFloatValueAt_Variable" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testIntegerValueAt_Constant" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testIntegerValueAt_Constant_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testDoubleValueAt_Variable" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testBooleanValueAt_Constant" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testLongValueAt_Variable" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testValueAt_Variable" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testBooleanValueAt_Constant_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testFloatValueAt_Constant" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testStringValueAt_Constant" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testStringValueAt_Constant_Null" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testValueAt_Constant" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testBooleanValueAt_Variable" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testDoubleValueAt_Variable_Null_1" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testIntegerValueAt_Variable_Null_2" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testStringValueAt_Variable_Null_2" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testDoubleValueAt_Variable_Null_2" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testIntegerValueAt_Variable_Null_1" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testBooleanValueAt_Variable_Null_2" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testFloatValueAt_Variable_Null_2" classname="javafx.binding.BindingsMapTest" time="0.001"/>
+  <testcase name="testFloatValueAt_Variable_Null_1" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testLongValueAt_Variable_Null_2" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <testcase name="testValueAt_Variable_Null_2" classname="javafx.binding.BindingsMapTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

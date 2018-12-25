@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.adapter.ReadOnlyJavaBeanFloatProperty_prim_Test" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.003">
+  <properties/>
+  <testcase name="testInvalidationListener" classname="javafx.beans.property.adapter.ReadOnlyJavaBeanFloatProperty_prim_Test" time="0.001"/>
+  <testcase name="testChangeListener" classname="javafx.beans.property.adapter.ReadOnlyJavaBeanFloatProperty_prim_Test" time="0.0"/>
+  <testcase name="testGet_Exception" classname="javafx.beans.property.adapter.ReadOnlyJavaBeanFloatProperty_prim_Test" time="0.001"/>
+  <testcase name="testSetup_WithNull" classname="javafx.beans.property.adapter.ReadOnlyJavaBeanFloatProperty_prim_Test" time="0.0"/>
+  <testcase name="testGetAndSet" classname="javafx.beans.property.adapter.ReadOnlyJavaBeanFloatProperty_prim_Test" time="0.001"/>
+  <testcase name="testDispose" classname="javafx.beans.property.adapter.ReadOnlyJavaBeanFloatProperty_prim_Test" time="0.0"/>
+  <testcase name="testContext" classname="javafx.beans.property.adapter.ReadOnlyJavaBeanFloatProperty_prim_Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.event.EventHandlerManagerTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:12" hostname="DESKTOP-CFPL3NK" time="0.006">
+  <properties/>
+  <testcase name="removeEventFilterShouldThrowNPEForNullEventHandler" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="removeEventHandlerShouldThrowNPEForNullEventHandler" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="shouldNotAddHandlerTwice" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.001"/>
+  <testcase name="shouldNotAddFilterTwice" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="shouldCallInCorrectOrder" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="eventConsumedInFilterTest" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.001"/>
+  <testcase name="shouldCallCorrectAddedHandlers" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="eventConsumedInHandlerTest" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="shouldCallFiltersForSuperTypes" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="shouldForwardEventsToChain" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.001"/>
+  <testcase name="shouldCallHandlersForSuperTypes" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="shouldCallCorrectAddedFilters" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="shouldAllowReplaceSingletonHandlers" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="shouldCallCorrectSingletonHandlers" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="addEventHandlerShouldThrowNPEForNullEventHandler" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="addEventFilterShouldThrowNPEForNullEventHandler" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.001"/>
+  <testcase name="shouldAllowRemoveHandlersAndFilters" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="addEventFilterShouldThrowNPEForNullEventType" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="addEventHandlerShouldThrowNPEForNullEventType" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.001"/>
+  <testcase name="removeEventFilterShouldThrowNPEForNullEventType" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <testcase name="removeEventHandlerShouldThrowNPEForNullEventType" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.001"/>
+  <testcase name="setEventHandlerShouldThrowNPEForNullEventType" classname="com.sun.javafx.event.EventHandlerManagerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

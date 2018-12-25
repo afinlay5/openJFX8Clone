@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.util.DurationValueOfTest" tests="64" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:16" hostname="DESKTOP-CFPL3NK" time="0.01">
+  <properties/>
+  <testcase name="leadingSpaceResultsInException[0]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[0]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[0]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[0]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[1]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[1]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[1]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[1]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[2]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[2]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[2]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[2]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[3]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[3]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[3]" classname="javafx.util.DurationValueOfTest" time="0.001"/>
+  <testcase name="testValueOf[3]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[4]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[4]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[4]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[4]" classname="javafx.util.DurationValueOfTest" time="0.001"/>
+  <testcase name="leadingSpaceResultsInException[5]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[5]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[5]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[5]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[6]" classname="javafx.util.DurationValueOfTest" time="0.001"/>
+  <testcase name="trailingSpaceResultsInException[6]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[6]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[6]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[7]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[7]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[7]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[7]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[8]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[8]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[8]" classname="javafx.util.DurationValueOfTest" time="0.001"/>
+  <testcase name="testValueOf[8]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[9]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[9]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[9]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[9]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[10]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[10]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[10]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[10]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[11]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[11]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[11]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[11]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[12]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[12]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[12]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[12]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[13]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[13]" classname="javafx.util.DurationValueOfTest" time="0.001"/>
+  <testcase name="wrongCaseResultsInException[13]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[13]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[14]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="trailingSpaceResultsInException[14]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[14]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[14]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="leadingSpaceResultsInException[15]" classname="javafx.util.DurationValueOfTest" time="0.001"/>
+  <testcase name="trailingSpaceResultsInException[15]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="wrongCaseResultsInException[15]" classname="javafx.util.DurationValueOfTest" time="0.0"/>
+  <testcase name="testValueOf[15]" classname="javafx.util.DurationValueOfTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

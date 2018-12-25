@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.FXCollectionsTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.012">
+  <properties/>
+  <testcase name="unmodifiableObservableMapTest_KeepsOrder" classname="javafx.collections.FXCollectionsTest" time="0.003"/>
+  <testcase name="sortTest2" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="sortTest" classname="javafx.collections.FXCollectionsTest" time="0.002"/>
+  <testcase name="reverseTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="fillTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="rotateTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="copyTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="replaceAllTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="sortTest_empty" classname="javafx.collections.FXCollectionsTest" time="0.001"/>
+  <testcase name="shuffleTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="concatTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="emptyObservableListTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="unmodifiableObservableSetTest" classname="javafx.collections.FXCollectionsTest" time="0.001"/>
+  <testcase name="unmodifiableObservableListTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="checkedListenerObservableSetTest" classname="javafx.collections.FXCollectionsTest" time="0.001"/>
+  <testcase name="checkedObservableSetTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="emptyObservableSetTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="checkedObservableMapTest" classname="javafx.collections.FXCollectionsTest" time="0.001"/>
+  <testcase name="unmodifiableObservableMapTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="singletonObservableListTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="emptyObservableMapTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="sortNotComparableTest" classname="javafx.collections.FXCollectionsTest" time="0.0"/>
+  <testcase name="checkedObservableListTest" classname="javafx.collections.FXCollectionsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

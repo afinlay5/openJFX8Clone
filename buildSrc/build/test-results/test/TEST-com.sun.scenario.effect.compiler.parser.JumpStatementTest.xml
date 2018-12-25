@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.scenario.effect.compiler.parser.JumpStatementTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-12-24T13:56:10" hostname="DESKTOP-CFPL3NK" time="0.004">
+  <properties/>
+  <testcase name="discard" classname="com.sun.scenario.effect.compiler.parser.JumpStatementTest" time="0.001"/>
+  <testcase name="returnExpr" classname="com.sun.scenario.effect.compiler.parser.JumpStatementTest" time="0.0"/>
+  <testcase name="returnEmpty" classname="com.sun.scenario.effect.compiler.parser.JumpStatementTest" time="0.001"/>
+  <testcase name="brk" classname="com.sun.scenario.effect.compiler.parser.JumpStatementTest" time="0.0"/>
+  <testcase name="notAJump" classname="com.sun.scenario.effect.compiler.parser.JumpStatementTest" time="0.0"/>
+  <testcase name="cont" classname="com.sun.scenario.effect.compiler.parser.JumpStatementTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

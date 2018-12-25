@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.expression.MapExpressionTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.007">
+  <properties/>
+  <testcase name="testSize" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <testcase name="testIsEmpty" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <testcase name="testValueAt_Variable" classname="javafx.binding.expression.MapExpressionTest" time="0.001"/>
+  <testcase name="testValueAt_Constant" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <testcase name="testGetSize" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <testcase name="testIsEqualTo" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <testcase name="testContainsKey" classname="javafx.binding.expression.MapExpressionTest" time="0.001"/>
+  <testcase name="testIsNull" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <testcase name="testIsNotEqualTo" classname="javafx.binding.expression.MapExpressionTest" time="0.002"/>
+  <testcase name="testIsNotNull" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <testcase name="testAsString" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <testcase name="testContainsValue" classname="javafx.binding.expression.MapExpressionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

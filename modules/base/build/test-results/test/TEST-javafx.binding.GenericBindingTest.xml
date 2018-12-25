@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.GenericBindingTest" tests="40" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.66">
+  <properties/>
+  <testcase name="testSingleDependencyLazy[0]" classname="javafx.binding.GenericBindingTest" time="0.056"/>
+  <testcase name="testTwoDependencies[0]" classname="javafx.binding.GenericBindingTest" time="0.02"/>
+  <testcase name="testSingleDependencyEager[0]" classname="javafx.binding.GenericBindingTest" time="0.017"/>
+  <testcase name="testNoDependencyEager[0]" classname="javafx.binding.GenericBindingTest" time="0.022"/>
+  <testcase name="testNoDependencyLazy[0]" classname="javafx.binding.GenericBindingTest" time="0.019"/>
+  <testcase name="testSingleDependencyLazy[1]" classname="javafx.binding.GenericBindingTest" time="0.017"/>
+  <testcase name="testTwoDependencies[1]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testSingleDependencyEager[1]" classname="javafx.binding.GenericBindingTest" time="0.015"/>
+  <testcase name="testNoDependencyEager[1]" classname="javafx.binding.GenericBindingTest" time="0.016"/>
+  <testcase name="testNoDependencyLazy[1]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testSingleDependencyLazy[2]" classname="javafx.binding.GenericBindingTest" time="0.013"/>
+  <testcase name="testTwoDependencies[2]" classname="javafx.binding.GenericBindingTest" time="0.013"/>
+  <testcase name="testSingleDependencyEager[2]" classname="javafx.binding.GenericBindingTest" time="0.014"/>
+  <testcase name="testNoDependencyEager[2]" classname="javafx.binding.GenericBindingTest" time="0.017"/>
+  <testcase name="testNoDependencyLazy[2]" classname="javafx.binding.GenericBindingTest" time="0.024"/>
+  <testcase name="testSingleDependencyLazy[3]" classname="javafx.binding.GenericBindingTest" time="0.019"/>
+  <testcase name="testTwoDependencies[3]" classname="javafx.binding.GenericBindingTest" time="0.014"/>
+  <testcase name="testSingleDependencyEager[3]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testNoDependencyEager[3]" classname="javafx.binding.GenericBindingTest" time="0.015"/>
+  <testcase name="testNoDependencyLazy[3]" classname="javafx.binding.GenericBindingTest" time="0.029"/>
+  <testcase name="testSingleDependencyLazy[4]" classname="javafx.binding.GenericBindingTest" time="0.014"/>
+  <testcase name="testTwoDependencies[4]" classname="javafx.binding.GenericBindingTest" time="0.021"/>
+  <testcase name="testSingleDependencyEager[4]" classname="javafx.binding.GenericBindingTest" time="0.016"/>
+  <testcase name="testNoDependencyEager[4]" classname="javafx.binding.GenericBindingTest" time="0.013"/>
+  <testcase name="testNoDependencyLazy[4]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testSingleDependencyLazy[5]" classname="javafx.binding.GenericBindingTest" time="0.013"/>
+  <testcase name="testTwoDependencies[5]" classname="javafx.binding.GenericBindingTest" time="0.013"/>
+  <testcase name="testSingleDependencyEager[5]" classname="javafx.binding.GenericBindingTest" time="0.013"/>
+  <testcase name="testNoDependencyEager[5]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testNoDependencyLazy[5]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testSingleDependencyLazy[6]" classname="javafx.binding.GenericBindingTest" time="0.016"/>
+  <testcase name="testTwoDependencies[6]" classname="javafx.binding.GenericBindingTest" time="0.021"/>
+  <testcase name="testSingleDependencyEager[6]" classname="javafx.binding.GenericBindingTest" time="0.014"/>
+  <testcase name="testNoDependencyEager[6]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testNoDependencyLazy[6]" classname="javafx.binding.GenericBindingTest" time="0.014"/>
+  <testcase name="testSingleDependencyLazy[7]" classname="javafx.binding.GenericBindingTest" time="0.014"/>
+  <testcase name="testTwoDependencies[7]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testSingleDependencyEager[7]" classname="javafx.binding.GenericBindingTest" time="0.014"/>
+  <testcase name="testNoDependencyEager[7]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <testcase name="testNoDependencyLazy[7]" classname="javafx.binding.GenericBindingTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

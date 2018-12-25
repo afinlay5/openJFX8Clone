@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.expression.IntegerExpressionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.002">
+  <properties/>
+  <testcase name="testAsObject" classname="javafx.binding.expression.IntegerExpressionTest" time="0.0"/>
+  <testcase name="testMinus" classname="javafx.binding.expression.IntegerExpressionTest" time="0.0"/>
+  <testcase name="testGetters" classname="javafx.binding.expression.IntegerExpressionTest" time="0.0"/>
+  <testcase name="testNegation" classname="javafx.binding.expression.IntegerExpressionTest" time="0.001"/>
+  <testcase name="testTimes" classname="javafx.binding.expression.IntegerExpressionTest" time="0.0"/>
+  <testcase name="testDividedBy" classname="javafx.binding.expression.IntegerExpressionTest" time="0.0"/>
+  <testcase name="testPlus" classname="javafx.binding.expression.IntegerExpressionTest" time="0.0"/>
+  <testcase name="testFactory_Null" classname="javafx.binding.expression.IntegerExpressionTest" time="0.001"/>
+  <testcase name="testFactory" classname="javafx.binding.expression.IntegerExpressionTest" time="0.0"/>
+  <testcase name="testObjectToInteger" classname="javafx.binding.expression.IntegerExpressionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

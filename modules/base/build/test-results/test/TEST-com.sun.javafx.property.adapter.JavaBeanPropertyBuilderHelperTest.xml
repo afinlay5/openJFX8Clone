@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:12" hostname="DESKTOP-CFPL3NK" time="0.007">
+  <properties/>
+  <testcase name="testSetup_WithNonStandardAccessors_WithNameIsEmpty" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.003"/>
+  <testcase name="testSetup_WithNameIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithNameIsEmpty" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithBeanClassIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithNonStandardNames_WithSetterNameIsEmpty" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithNonStandardAccessors_WithNameIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithNonStandardAccessors_WithGetterIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.001"/>
+  <testcase name="testSetup_WithNonStandardAccessors_WithSetterIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithNonStandardNames_WithSetterNameIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.001"/>
+  <testcase name="testSetup_WithNonStandardNames_WithGetterNameIsEmpty" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithNonStandardNames_WithBeanClassIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithNonStandardNames_WithGetterNameIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testSetup_WithNonStandardNames_WithNameIsNull" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <testcase name="testReusabilityWhenChangeOfBeanClass" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.002"/>
+  <testcase name="testSetup_WithNonStandardNames_WithNameIsEmpty" classname="com.sun.javafx.property.adapter.JavaBeanPropertyBuilderHelperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

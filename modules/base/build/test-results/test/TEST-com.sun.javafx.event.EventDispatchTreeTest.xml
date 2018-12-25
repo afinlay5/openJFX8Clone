@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.event.EventDispatchTreeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:12" hostname="DESKTOP-CFPL3NK" time="0.0">
+  <properties/>
+  <testcase name="dispatchEventTest" classname="com.sun.javafx.event.EventDispatchTreeTest" time="0.0"/>
+  <testcase name="resetTest" classname="com.sun.javafx.event.EventDispatchTreeTest" time="0.0"/>
+  <testcase name="mergeTreeTest" classname="com.sun.javafx.event.EventDispatchTreeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.value.ObservableValueBaseTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.143">
+  <properties/>
+  <testcase name="testTwoObservers" classname="javafx.beans.value.ObservableValueBaseTest" time="0.06"/>
+  <testcase name="testInitialState" classname="javafx.beans.value.ObservableValueBaseTest" time="0.001"/>
+  <testcase name="testAddingNull_InvalidationListener" classname="javafx.beans.value.ObservableValueBaseTest" time="0.0"/>
+  <testcase name="testRemovingNull_InvalidationListener" classname="javafx.beans.value.ObservableValueBaseTest" time="0.0"/>
+  <testcase name="testOneChangeListener" classname="javafx.beans.value.ObservableValueBaseTest" time="0.051"/>
+  <testcase name="testConcurrentAdd" classname="javafx.beans.value.ObservableValueBaseTest" time="0.001"/>
+  <testcase name="testConcurrentRemove" classname="javafx.beans.value.ObservableValueBaseTest" time="0.0"/>
+  <testcase name="testAddingNull_ChangeListener" classname="javafx.beans.value.ObservableValueBaseTest" time="0.0"/>
+  <testcase name="testRemovingNull_ChangeListener" classname="javafx.beans.value.ObservableValueBaseTest" time="0.0"/>
+  <testcase name="testOneInvalidationListener" classname="javafx.beans.value.ObservableValueBaseTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.ObservableListTest" tests="138" skipped="6" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.02">
+  <properties/>
+  <testcase name="testAddInMiddle[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveObject[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddAtEnd[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testSet[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRetainAll[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_3[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNull[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddToEmpty[0]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testRemoveAll[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_1[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_2[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_4[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveByIndex[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverRemoveTwice[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[0]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testRemoveNonexistent[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralInMiddle[0]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testObserverAddRemove[0]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testObserverCanRemoveObservers[0]" classname="javafx.collections.ObservableListTest" time="0.002"/>
+  <testcase name="testAddSeveralAtEnd[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddTwice[0]" classname="javafx.collections.ObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddSeveralToEmpty[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testClearNonempty[0]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddInMiddle[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveObject[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddAtEnd[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testSet[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRetainAll[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_3[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNull[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddToEmpty[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_1[1]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testRemoveAll_2[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_4[1]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testRemoveByIndex[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverRemoveTwice[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNonexistent[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralInMiddle[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddRemove[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralAtEnd[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddTwice[1]" classname="javafx.collections.ObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddSeveralToEmpty[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testClearNonempty[1]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddInMiddle[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveObject[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddAtEnd[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testSet[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRetainAll[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_3[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNull[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddToEmpty[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_1[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_2[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_4[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveByIndex[2]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testObserverRemoveTwice[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNonexistent[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralInMiddle[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddRemove[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralAtEnd[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddTwice[2]" classname="javafx.collections.ObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddSeveralToEmpty[2]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testClearNonempty[2]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testAddInMiddle[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveObject[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddAtEnd[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testSet[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRetainAll[3]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testRemoveAll_3[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNull[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddToEmpty[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_1[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_2[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_4[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveByIndex[3]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testObserverRemoveTwice[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNonexistent[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralInMiddle[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddRemove[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralAtEnd[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddTwice[3]" classname="javafx.collections.ObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddSeveralToEmpty[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testClearNonempty[3]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddInMiddle[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveObject[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddAtEnd[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testSet[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRetainAll[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_3[4]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testRemoveNull[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddToEmpty[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_1[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_2[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_4[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveByIndex[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverRemoveTwice[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNonexistent[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralInMiddle[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddRemove[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralAtEnd[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddTwice[4]" classname="javafx.collections.ObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddSeveralToEmpty[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testClearNonempty[4]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddInMiddle[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveObject[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddAtEnd[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testSet[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRetainAll[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_3[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNull[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddToEmpty[5]" classname="javafx.collections.ObservableListTest" time="0.001"/>
+  <testcase name="testRemoveAll[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_1[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_2[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll_4[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveByIndex[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverRemoveTwice[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testRemoveNonexistent[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralInMiddle[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddRemove[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testAddSeveralAtEnd[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testObserverAddTwice[5]" classname="javafx.collections.ObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddSeveralToEmpty[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <testcase name="testClearNonempty[5]" classname="javafx.collections.ObservableListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

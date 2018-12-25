@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.BindingsIsNullTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.001">
+  <properties/>
+  <testcase name="test_IsNull_NPE" classname="javafx.binding.BindingsIsNullTest" time="0.0"/>
+  <testcase name="test_Object_IsNotNull" classname="javafx.binding.BindingsIsNullTest" time="0.0"/>
+  <testcase name="test_String_IsNull" classname="javafx.binding.BindingsIsNullTest" time="0.0"/>
+  <testcase name="test_Object_IsNull" classname="javafx.binding.BindingsIsNullTest" time="0.001"/>
+  <testcase name="test_IsNotNull_NPE" classname="javafx.binding.BindingsIsNullTest" time="0.0"/>
+  <testcase name="test_String_IsNotNull" classname="javafx.binding.BindingsIsNullTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

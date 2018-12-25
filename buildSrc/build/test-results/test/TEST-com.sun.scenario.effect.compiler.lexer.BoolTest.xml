@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.scenario.effect.compiler.lexer.BoolTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-12-24T13:56:08" hostname="DESKTOP-CFPL3NK" time="0.03">
+  <properties/>
+  <testcase name="trueLit" classname="com.sun.scenario.effect.compiler.lexer.BoolTest" time="0.021"/>
+  <testcase name="notABool" classname="com.sun.scenario.effect.compiler.lexer.BoolTest" time="0.005"/>
+  <testcase name="falseLit" classname="com.sun.scenario.effect.compiler.lexer.BoolTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

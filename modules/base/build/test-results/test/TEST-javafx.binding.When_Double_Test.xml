@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.When_Double_Test" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.001">
+  <properties/>
+  <testcase name="test_expression_Null" classname="javafx.binding.When_Double_Test" time="0.0"/>
+  <testcase name="test_Null_primitive" classname="javafx.binding.When_Double_Test" time="0.0"/>
+  <testcase name="test_primitive_Null" classname="javafx.binding.When_Double_Test" time="0.0"/>
+  <testcase name="test_primitive_expression" classname="javafx.binding.When_Double_Test" time="0.001"/>
+  <testcase name="test_Null" classname="javafx.binding.When_Double_Test" time="0.0"/>
+  <testcase name="test_primitive_primitive" classname="javafx.binding.When_Double_Test" time="0.0"/>
+  <testcase name="test_expression_expression" classname="javafx.binding.When_Double_Test" time="0.0"/>
+  <testcase name="test_Null_expression" classname="javafx.binding.When_Double_Test" time="0.0"/>
+  <testcase name="test_expression_primitive" classname="javafx.binding.When_Double_Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

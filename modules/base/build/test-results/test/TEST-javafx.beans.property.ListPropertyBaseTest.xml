@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.ListPropertyBaseTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.024">
+  <properties/>
+  <testcase name="testUpdate" classname="javafx.beans.property.ListPropertyBaseTest" time="0.003"/>
+  <testcase name="testPermutation" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testUnbind" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testInvalidationListener" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testChangeListener" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testBindToNull" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testToString" classname="javafx.beans.property.ListPropertyBaseTest" time="0.001"/>
+  <testcase name="testConstructor" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testSet_Change" classname="javafx.beans.property.ListPropertyBaseTest" time="0.001"/>
+  <testcase name="testRebind" classname="javafx.beans.property.ListPropertyBaseTest" time="0.001"/>
+  <testcase name="testSizeProperty" classname="javafx.beans.property.ListPropertyBaseTest" time="0.001"/>
+  <testcase name="testBind_Change" classname="javafx.beans.property.ListPropertyBaseTest" time="0.002"/>
+  <testcase name="testSetBoundValue" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testAddingListenerWillAlwaysReceiveInvalidationEvent" classname="javafx.beans.property.ListPropertyBaseTest" time="0.001"/>
+  <testcase name="testSet_Invalidation" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testSet_ListChange" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testSetValue_Invalidation" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testSetValue_ListChange" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testSourceList_Change" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testBind_ListChange" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testPermutationUpdate" classname="javafx.beans.property.ListPropertyBaseTest" time="0.005"/>
+  <testcase name="testListChangeListener" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testSourceList_Invalidation" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testEmptyProperty" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testSourceList_ListChange" classname="javafx.beans.property.ListPropertyBaseTest" time="0.001"/>
+  <testcase name="testBind_Invalidation" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <testcase name="testSetValue_Change" classname="javafx.beans.property.ListPropertyBaseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

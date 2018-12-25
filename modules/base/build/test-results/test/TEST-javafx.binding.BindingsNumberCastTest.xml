@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.BindingsNumberCastTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.006">
+  <properties/>
+  <testcase name="testFloat[0]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testDouble[0]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testInteger[0]" classname="javafx.binding.BindingsNumberCastTest" time="0.001"/>
+  <testcase name="testLong[0]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testFloat[1]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testDouble[1]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testInteger[1]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testLong[1]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testFloat[2]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testDouble[2]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testInteger[2]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testLong[2]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testFloat[3]" classname="javafx.binding.BindingsNumberCastTest" time="0.001"/>
+  <testcase name="testDouble[3]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testInteger[3]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testLong[3]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testFloat[4]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testDouble[4]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testInteger[4]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testLong[4]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testFloat[5]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testDouble[5]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testInteger[5]" classname="javafx.binding.BindingsNumberCastTest" time="0.001"/>
+  <testcase name="testLong[5]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testFloat[6]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testDouble[6]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testInteger[6]" classname="javafx.binding.BindingsNumberCastTest" time="0.0"/>
+  <testcase name="testLong[6]" classname="javafx.binding.BindingsNumberCastTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

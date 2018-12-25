@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.FilteredListTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.036">
+  <properties/>
+  <testcase name="testLiveMode_Remove" classname="javafx.collections.FilteredListTest" time="0.002"/>
+  <testcase name="testLiveMode_Permutation" classname="javafx.collections.FilteredListTest" time="0.001"/>
+  <testcase name="testLiveMode_changeMatcher" classname="javafx.collections.FilteredListTest" time="0.0"/>
+  <testcase name="testLiveMode_mutableElementEmptyList" classname="javafx.collections.FilteredListTest" time="0.029"/>
+  <testcase name="testCustomMutableElements" classname="javafx.collections.FilteredListTest" time="0.001"/>
+  <testcase name="testLiveMode_mutableElements" classname="javafx.collections.FilteredListTest" time="0.001"/>
+  <testcase name="testNullPredicate" classname="javafx.collections.FilteredListTest" time="0.0"/>
+  <testcase name="testSingleArgConstructor" classname="javafx.collections.FilteredListTest" time="0.0"/>
+  <testcase name="testLiveMode_Add" classname="javafx.collections.FilteredListTest" time="0.0"/>
+  <testcase name="testLiveMode" classname="javafx.collections.FilteredListTest" time="0.0"/>
+  <testcase name="testLiveMode_mutableElement" classname="javafx.collections.FilteredListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

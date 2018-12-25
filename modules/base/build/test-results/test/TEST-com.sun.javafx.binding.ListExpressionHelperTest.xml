@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.binding.ListExpressionHelperTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:12" hostname="DESKTOP-CFPL3NK" time="0.014">
+  <properties/>
+  <testcase name="testRemoveInvalidation_Null" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testAddInvalidation_Null_X" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testAddChange_Null_X" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testRemoveChange_Null" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testAddChange_X_Null" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testRemoveInvalidation" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testFireValueChangedEvent" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.002"/>
+  <testcase name="testAddInvalidation_X_Null" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testAddChangeWhileLocked" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testAddInvalidationWhileLocked" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testAddInvalidation" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testRemoveChangeWhileLocked" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testRemoveInvalidationWhileLocked" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testEmpty" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testSingleChange" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testAddChange" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testRemoveChange" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testRemoveListChange_Null" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testAddListChangeWhileLocked" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testRemoveListChangeWhileLocked" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testRemoveListChange" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testAddListChange_Null_X" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testAddListChange_X_Null" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testSingleInvalidation" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.0"/>
+  <testcase name="testSingleListChange" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <testcase name="testAddListChange" classname="com.sun.javafx.binding.ListExpressionHelperTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

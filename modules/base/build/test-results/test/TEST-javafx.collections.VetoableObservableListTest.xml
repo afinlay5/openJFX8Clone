@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.VetoableObservableListTest" tests="51" skipped="16" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.007">
+  <properties/>
+  <testcase name="testNull_addAll_collection_indexed" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testConcurrencyRemoveAll" classname="javafx.collections.VetoableObservableListTest" time="0.001"/>
+  <testcase name="testConcurrencyRetainAll" classname="javafx.collections.VetoableObservableListTest" time="0.001"/>
+  <testcase name="testConcurrencyRemove" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testConcurrencySet" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testConcurrencyAdd" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testConcurrencyAddAll" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testConcurrencyClear" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testRemove" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testAdd" classname="javafx.collections.VetoableObservableListTest" time="0.001"/>
+  <testcase name="testClear" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testSet" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testRetainAll" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testAddAll" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testRemoveAll" classname="javafx.collections.VetoableObservableListTest" time="0.001"/>
+  <testcase name="testSubListCreatedOnChangeValid" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testSubList_retainAll" classname="javafx.collections.VetoableObservableListTest" time="0.001"/>
+  <testcase name="testSubList_removeAll" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_listIterator_add" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testConcurrencyIteratorIterator" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testSubList_remove" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testConcurrencyIteratorAdd" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testSubList_clear" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_subList_listIterator" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testConcurrencyIteratorRemove" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_addAll_collection" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNull_subList_addAll_indexed" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testIterator_remove" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_subList_add_indexed" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNull_subList_set" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNull_setAll_collection" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testConcurrencyIteratorSet" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testSubList_addAll" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testListIterator_add" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testAddAll_indexed" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_listIterator_set" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNull_subList_addAll" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSubList_iterator_quicktest" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_add_indexed" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNonConcurrency" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_subList_add" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testRemove_indexed" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testListIterator_set" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testAdd_indexed" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testSubList_set" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_set" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSetAll" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testSubList_add" classname="javafx.collections.VetoableObservableListTest" time="0.0"/>
+  <testcase name="testNull_add" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNull_addAll" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNull_setAll" classname="javafx.collections.VetoableObservableListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

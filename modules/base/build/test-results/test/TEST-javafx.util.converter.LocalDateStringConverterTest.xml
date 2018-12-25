@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.util.converter.LocalDateStringConverterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:16" hostname="DESKTOP-CFPL3NK" time="0.008">
+  <properties/>
+  <testcase name="toString_to_fromString_testRoundtrip[0]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.007"/>
+  <testcase name="fromString_testInvalidInput[0]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[0]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.0"/>
+  <testcase name="toString_to_fromString_testRoundtrip[1]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testInvalidInput[1]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[1]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.0"/>
+  <testcase name="toString_to_fromString_testRoundtrip[2]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testInvalidInput[2]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[2]" classname="javafx.util.converter.LocalDateStringConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

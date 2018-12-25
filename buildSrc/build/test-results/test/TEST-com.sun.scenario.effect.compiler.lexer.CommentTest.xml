@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.scenario.effect.compiler.lexer.CommentTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-12-24T13:56:08" hostname="DESKTOP-CFPL3NK" time="0.005">
+  <properties/>
+  <testcase name="comment" classname="com.sun.scenario.effect.compiler.lexer.CommentTest" time="0.002"/>
+  <testcase name="notAComment" classname="com.sun.scenario.effect.compiler.lexer.CommentTest" time="0.002"/>
+  <testcase name="multilineComment" classname="com.sun.scenario.effect.compiler.lexer.CommentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.MapPropertyBaseTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.015">
+  <properties/>
+  <testcase name="testUnbind" classname="javafx.beans.property.MapPropertyBaseTest" time="0.001"/>
+  <testcase name="testInvalidationListener" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testChangeListener" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testBindToNull" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testToString" classname="javafx.beans.property.MapPropertyBaseTest" time="0.001"/>
+  <testcase name="testConstructor" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testRebind" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testSizeProperty" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testBind_Change" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testMap_Change" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testSourceMap_Invalidation" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testMapValue_Change" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testMapChangeListener" classname="javafx.beans.property.MapPropertyBaseTest" time="0.002"/>
+  <testcase name="testMapValue_MapChange" classname="javafx.beans.property.MapPropertyBaseTest" time="0.001"/>
+  <testcase name="testMapValue_Invalidation" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testMap_MapChange" classname="javafx.beans.property.MapPropertyBaseTest" time="0.001"/>
+  <testcase name="testMap_Invalidation" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testSourceMap_Change" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testBind_MapChange" classname="javafx.beans.property.MapPropertyBaseTest" time="0.001"/>
+  <testcase name="testMapBoundValue" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testSourceMap_MapChange" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testAddingListenerWillAlwaysReceiveInvalidationEvent" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testEmptyProperty" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <testcase name="testBind_Invalidation" classname="javafx.beans.property.MapPropertyBaseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.util.converter.TimeStringConverterTest" tests="42" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:16" hostname="DESKTOP-CFPL3NK" time="0.008">
+  <properties/>
+  <testcase name="fromString_testValidInputWithWhiteSpace[0]" classname="javafx.util.converter.TimeStringConverterTest" time="0.001"/>
+  <testcase name="getDateFormat_nonNullPattern[0]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInput[0]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testInvalidInput[0]" classname="javafx.util.converter.TimeStringConverterTest" time="0.001"/>
+  <testcase name="toString_validOutput[0]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat[0]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[0]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInputWithWhiteSpace[1]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat_nonNullPattern[1]" classname="javafx.util.converter.TimeStringConverterTest" time="0.001"/>
+  <testcase name="fromString_testValidInput[1]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testInvalidInput[1]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="toString_validOutput[1]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat[1]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[1]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInputWithWhiteSpace[2]" classname="javafx.util.converter.TimeStringConverterTest" time="0.001"/>
+  <testcase name="getDateFormat_nonNullPattern[2]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInput[2]" classname="javafx.util.converter.TimeStringConverterTest" time="0.001"/>
+  <testcase name="fromString_testInvalidInput[2]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="toString_validOutput[2]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat[2]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[2]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInputWithWhiteSpace[3]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat_nonNullPattern[3]" classname="javafx.util.converter.TimeStringConverterTest" time="0.001"/>
+  <testcase name="fromString_testValidInput[3]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testInvalidInput[3]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="toString_validOutput[3]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat[3]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[3]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInputWithWhiteSpace[4]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat_nonNullPattern[4]" classname="javafx.util.converter.TimeStringConverterTest" time="0.001"/>
+  <testcase name="fromString_testValidInput[4]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testInvalidInput[4]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="toString_validOutput[4]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat[4]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[4]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInputWithWhiteSpace[5]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat_nonNullPattern[5]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidInput[5]" classname="javafx.util.converter.TimeStringConverterTest" time="0.001"/>
+  <testcase name="fromString_testInvalidInput[5]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="toString_validOutput[5]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="getDateFormat[5]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor[5]" classname="javafx.util.converter.TimeStringConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

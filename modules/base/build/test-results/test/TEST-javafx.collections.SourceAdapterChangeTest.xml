@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.SourceAdapterChangeTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.003">
+  <properties/>
+  <testcase name="testUpdate[0]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testPermutation[0]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testPermutationUpdate[0]" classname="javafx.collections.SourceAdapterChangeTest" time="0.001"/>
+  <testcase name="testUpdate[1]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testPermutation[1]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testPermutationUpdate[1]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testUpdate[2]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testPermutation[2]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testPermutationUpdate[2]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testUpdate[3]" classname="javafx.collections.SourceAdapterChangeTest" time="0.001"/>
+  <testcase name="testPermutation[3]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <testcase name="testPermutationUpdate[3]" classname="javafx.collections.SourceAdapterChangeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

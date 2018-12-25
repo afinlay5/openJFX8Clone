@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.MapBindingTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.046">
+  <properties/>
+  <testcase name="testSizeProperty" classname="javafx.binding.MapBindingTest" time="0.002"/>
+  <testcase name="testChangeContent_InvalidationListener" classname="javafx.binding.MapBindingTest" time="0.0"/>
+  <testcase name="testSingleDependency_MapChangeListener" classname="javafx.binding.MapBindingTest" time="0.026"/>
+  <testcase name="testNoDependency_MapChangeListener" classname="javafx.binding.MapBindingTest" time="0.017"/>
+  <testcase name="testChangeContent_MapChangeListener" classname="javafx.binding.MapBindingTest" time="0.0"/>
+  <testcase name="testEmptyProperty" classname="javafx.binding.MapBindingTest" time="0.0"/>
+  <testcase name="testChangeContent_ChangeListener" classname="javafx.binding.MapBindingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

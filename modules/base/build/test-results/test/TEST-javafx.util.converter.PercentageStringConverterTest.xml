@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.util.converter.PercentageStringConverterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:16" hostname="DESKTOP-CFPL3NK" time="0.002">
+  <properties/>
+  <testcase name="fromString_testValidStringInputWithWhiteSpace" classname="javafx.util.converter.PercentageStringConverterTest" time="0.0"/>
+  <testcase name="getNumberFormat_nonNullNumberFormat" classname="javafx.util.converter.PercentageStringConverterTest" time="0.0"/>
+  <testcase name="testDefaultConstructor" classname="javafx.util.converter.PercentageStringConverterTest" time="0.001"/>
+  <testcase name="testConstructor_locale" classname="javafx.util.converter.PercentageStringConverterTest" time="0.0"/>
+  <testcase name="testConstructor_numberFormat" classname="javafx.util.converter.PercentageStringConverterTest" time="0.0"/>
+  <testcase name="toString_validInput" classname="javafx.util.converter.PercentageStringConverterTest" time="0.0"/>
+  <testcase name="getNumberFormat_default" classname="javafx.util.converter.PercentageStringConverterTest" time="0.0"/>
+  <testcase name="fromString_testValidStringInput" classname="javafx.util.converter.PercentageStringConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

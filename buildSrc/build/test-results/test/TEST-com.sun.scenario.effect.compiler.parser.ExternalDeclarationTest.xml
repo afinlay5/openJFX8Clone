@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.scenario.effect.compiler.parser.ExternalDeclarationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-12-24T13:56:09" hostname="DESKTOP-CFPL3NK" time="0.016">
+  <properties/>
+  <testcase name="declaration" classname="com.sun.scenario.effect.compiler.parser.ExternalDeclarationTest" time="0.007"/>
+  <testcase name="funcDefOneParam" classname="com.sun.scenario.effect.compiler.parser.ExternalDeclarationTest" time="0.002"/>
+  <testcase name="funcDefTwoParam" classname="com.sun.scenario.effect.compiler.parser.ExternalDeclarationTest" time="0.002"/>
+  <testcase name="multiDeclaration" classname="com.sun.scenario.effect.compiler.parser.ExternalDeclarationTest" time="0.001"/>
+  <testcase name="notAnExtDecl" classname="com.sun.scenario.effect.compiler.parser.ExternalDeclarationTest" time="0.0"/>
+  <testcase name="funcDefNoParam" classname="com.sun.scenario.effect.compiler.parser.ExternalDeclarationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

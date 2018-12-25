@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.PropertyReferenceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.006">
+  <properties/>
+  <testcase name="testInteger" classname="javafx.beans.property.PropertyReferenceTest" time="0.001"/>
+  <testcase name="testNoRead" classname="javafx.beans.property.PropertyReferenceTest" time="0.002"/>
+  <testcase name="testNoReadWrite" classname="javafx.beans.property.PropertyReferenceTest" time="0.0"/>
+  <testcase name="testNoWrite" classname="javafx.beans.property.PropertyReferenceTest" time="0.0"/>
+  <testcase name="testNoReadWrite_IllegalWrite" classname="javafx.beans.property.PropertyReferenceTest" time="0.001"/>
+  <testcase name="testNoRead_IllegalReadProperty" classname="javafx.beans.property.PropertyReferenceTest" time="0.0"/>
+  <testcase name="testNoWrite_IllegalWrite" classname="javafx.beans.property.PropertyReferenceTest" time="0.0"/>
+  <testcase name="testNoReadWrite_IllegalRead" classname="javafx.beans.property.PropertyReferenceTest" time="0.0"/>
+  <testcase name="testNoRead_IllegalRead" classname="javafx.beans.property.PropertyReferenceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

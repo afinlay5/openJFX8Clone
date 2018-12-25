@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.binding.BidirectionalContentBindingSetTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:11" hostname="DESKTOP-CFPL3NK" time="0.069">
+  <properties/>
+  <testcase name="testUnbind_X_Self" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.002"/>
+  <testcase name="testUnbind_Null_X" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.0"/>
+  <testcase name="testUnbind_X_Null" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.0"/>
+  <testcase name="testEqualsWithGCedProperty" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.01"/>
+  <testcase name="testBind" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.007"/>
+  <testcase name="testHashCode" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.0"/>
+  <testcase name="testUnbind" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.032"/>
+  <testcase name="testBind_X_Self" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.0"/>
+  <testcase name="testChaining" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.016"/>
+  <testcase name="testBind_Null_X" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.0"/>
+  <testcase name="testBind_X_Null" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.0"/>
+  <testcase name="testEquals" classname="com.sun.javafx.binding.BidirectionalContentBindingSetTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

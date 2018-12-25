@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.event.CompositeEventDispatcherTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:12" hostname="DESKTOP-CFPL3NK" time="0.004">
+  <properties/>
+  <testcase name="eventDispatchTest" classname="com.sun.javafx.event.CompositeEventDispatcherTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

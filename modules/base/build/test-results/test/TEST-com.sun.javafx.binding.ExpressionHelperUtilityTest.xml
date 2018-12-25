@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.binding.ExpressionHelperUtilityTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:12" hostname="DESKTOP-CFPL3NK" time="0.042">
+  <properties/>
+  <testcase name="testGetListChangeListenerFromList" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.034"/>
+  <testcase name="testGetInvalidationListenerFromMap" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.004"/>
+  <testcase name="testGetInvalidationListenerFromList" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.0"/>
+  <testcase name="testGetInvalidationListenerFromSet" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.001"/>
+  <testcase name="testGetInvalidationListenerFromValue" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.0"/>
+  <testcase name="testGetChangeListenerFromValue" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.001"/>
+  <testcase name="testGetChangeListenerFromSet" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.0"/>
+  <testcase name="testGetMapChangeListenerFromMap" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.0"/>
+  <testcase name="testGetChangeListenerFromMap" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.001"/>
+  <testcase name="testGetChangeListenerFromList" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.0"/>
+  <testcase name="testGetSetChangeListenerFromSet" classname="com.sun.javafx.binding.ExpressionHelperUtilityTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

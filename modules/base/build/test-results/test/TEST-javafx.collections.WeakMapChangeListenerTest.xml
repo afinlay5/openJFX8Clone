@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.WeakMapChangeListenerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:16" hostname="DESKTOP-CFPL3NK" time="0.036">
+  <properties/>
+  <testcase name="testHandle" classname="javafx.collections.WeakMapChangeListenerTest" time="0.036"/>
+  <testcase name="testConstructWithNull" classname="javafx.collections.WeakMapChangeListenerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

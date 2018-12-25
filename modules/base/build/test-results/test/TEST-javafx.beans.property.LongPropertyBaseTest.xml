@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.LongPropertyBaseTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.011">
+  <properties/>
+  <testcase name="testUnbind" classname="javafx.beans.property.LongPropertyBaseTest" time="0.001"/>
+  <testcase name="testInvalidationListener" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testChangeListener" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testBindToNull" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testLazySetValue" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testToString" classname="javafx.beans.property.LongPropertyBaseTest" time="0.001"/>
+  <testcase name="testConstructor" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testRebind" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testEagerBind" classname="javafx.beans.property.LongPropertyBaseTest" time="0.003"/>
+  <testcase name="testLazyBind" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testLazySet" classname="javafx.beans.property.LongPropertyBaseTest" time="0.001"/>
+  <testcase name="testEagerSet" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testSetBoundValue" classname="javafx.beans.property.LongPropertyBaseTest" time="0.001"/>
+  <testcase name="testEagerSetValue" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testAddingListenerWillAlwaysReceiveInvalidationEvent" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testUnbindObservableValue" classname="javafx.beans.property.LongPropertyBaseTest" time="0.002"/>
+  <testcase name="testEagerBindObservableValue" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <testcase name="testLazyBindObservableValue" classname="javafx.beans.property.LongPropertyBaseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

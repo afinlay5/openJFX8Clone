@@ -1,0 +1,745 @@
+ prism_sw
+
+ Timestamp is 5c212b96 (Mon Dec 24 13:55:18 2018)
+
+ Preferred load address is 0000000180000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 0000b910H .text$mn                CODE
+ 0001:0000b910 00000012H .text$mn$00             CODE
+ 0001:0000b922 00000081H .text$x                 CODE
+ 0002:00000000 00000118H .idata$5                DATA
+ 0002:00000118 00000010H .00cfg                  DATA
+ 0002:00000128 00000008H .CRT$XCA                DATA
+ 0002:00000130 00000008H .CRT$XCZ                DATA
+ 0002:00000138 00000008H .CRT$XIA                DATA
+ 0002:00000140 00000008H .CRT$XIZ                DATA
+ 0002:00000148 00000008H .CRT$XPA                DATA
+ 0002:00000150 00000008H .CRT$XPZ                DATA
+ 0002:00000158 00000008H .CRT$XTA                DATA
+ 0002:00000160 00000010H .CRT$XTZ                DATA
+ 0002:00000168 00000000H .gfids$y                DATA
+ 0002:00000170 00006f50H .rdata                  DATA
+ 0002:000070c0 00000250H .rdata$zzzdbg           DATA
+ 0002:00007310 00000008H .rtc$IAA                DATA
+ 0002:00007318 00000008H .rtc$IZZ                DATA
+ 0002:00007320 00000008H .rtc$TAA                DATA
+ 0002:00007328 00000008H .rtc$TZZ                DATA
+ 0002:00007330 00000a40H .xdata                  DATA
+ 0002:00007d70 000004f8H .edata                  DATA
+ 0002:00008268 00000064H .idata$2                DATA
+ 0002:000082cc 00000014H .idata$3                DATA
+ 0002:000082e0 00000118H .idata$4                DATA
+ 0002:000083f8 000002f4H .idata$6                DATA
+ 0003:00000000 000006e0H .data                   DATA
+ 0003:000006e0 00000e78H .bss                    DATA
+ 0004:00000000 00000798H .pdata                  DATA
+ 0005:00000000 00000c50H _RDATA                  DATA
+ 0006:00000000 00000060H .rsrc$01                DATA
+ 0006:00000060 00000318H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base               Lib:Object
+
+ 0000:00000000       __guard_longjmp_table      0000000000000000     <absolute>
+ 0000:00000000       __dynamic_value_reloc_table 0000000000000000     <absolute>
+ 0000:00000000       __guard_iat_table          0000000000000000     <absolute>
+ 0000:00000000       __guard_fids_count         0000000000000000     <absolute>
+ 0000:00000000       __guard_longjmp_count      0000000000000000     <absolute>
+ 0000:00000000       __hybrid_code_map_count    0000000000000000     <absolute>
+ 0000:00000000       ___safe_se_handler_count   0000000000000000     <absolute>
+ 0000:00000000       __hybrid_code_map          0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_iat     0000000000000000     <absolute>
+ 0000:00000000       __enclave_config           0000000000000000     <absolute>
+ 0000:00000000       __guard_iat_count          0000000000000000     <absolute>
+ 0000:00000000       __volatile_metadata        0000000000000000     <absolute>
+ 0000:00000000       ___safe_se_handler_table   0000000000000000     <absolute>
+ 0000:00000000       __guard_fids_table         0000000000000000     <absolute>
+ 0000:00000100       __guard_flags              0000000000000100     <absolute>
+ 0000:00000000       __ImageBase                0000000180000000     <linker-defined>
+ 0001:00000000       Java_com_sun_pisces_AbstractSurface_getRGBImpl 0000000180001000 f   JAbstractSurface.obj
+ 0001:00000270       Java_com_sun_pisces_AbstractSurface_nativeFinalize 0000000180001270 f   JAbstractSurface.obj
+ 0001:00000300       Java_com_sun_pisces_AbstractSurface_setRGBImpl 0000000180001300 f   JAbstractSurface.obj
+ 0001:00000550       surface_get                0000000180001550 f   JAbstractSurface.obj
+ 0001:00000570       surface_initialize         0000000180001570 f   JAbstractSurface.obj
+ 0001:000005d0       Java_com_sun_pisces_JavaSurface_initialize 00000001800015d0 f   JJavaSurface.obj
+ 0001:000007b0       _guard_check_icall_nop     00000001800017b0 f   MSVCRT:guard_support.obj
+ 0001:00000800       JNI_ThrowNew               0000000180001800 f   JNIUtil.obj
+ 0001:00000890       initializeFieldIds         0000000180001890 f   JNIUtil.obj
+ 0001:00000930       Java_com_sun_pisces_PiscesRenderer_clearRectImpl 0000000180001930 f   JPiscesRenderer.obj
+ 0001:00000a20       Java_com_sun_pisces_PiscesRenderer_drawImageImpl 0000000180001a20 f   JPiscesRenderer.obj
+ 0001:00000c10       Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 0000000180001c10 f   JPiscesRenderer.obj
+ 0001:00000ee0       Java_com_sun_pisces_PiscesRenderer_fillAlphaMaskImpl 0000000180001ee0 f   JPiscesRenderer.obj
+ 0001:00001000       Java_com_sun_pisces_PiscesRenderer_fillLCDAlphaMaskImpl 0000000180002000 f   JPiscesRenderer.obj
+ 0001:00001130       Java_com_sun_pisces_PiscesRenderer_fillRectImpl 0000000180002130 f   JPiscesRenderer.obj
+ 0001:000011c0       Java_com_sun_pisces_PiscesRenderer_initialize 00000001800021c0 f   JPiscesRenderer.obj
+ 0001:00001310       Java_com_sun_pisces_PiscesRenderer_nativeFinalize 0000000180002310 f   JPiscesRenderer.obj
+ 0001:00001410       Java_com_sun_pisces_PiscesRenderer_setClipImpl 0000000180002410 f   JPiscesRenderer.obj
+ 0001:000014a0       Java_com_sun_pisces_PiscesRenderer_setColorImpl 00000001800024a0 f   JPiscesRenderer.obj
+ 0001:00001550       Java_com_sun_pisces_PiscesRenderer_setCompositeRuleImpl 0000000180002550 f   JPiscesRenderer.obj
+ 0001:000015e0       Java_com_sun_pisces_PiscesRenderer_setLCDGammaCorrectionImpl 00000001800025e0 f   JPiscesRenderer.obj
+ 0001:000015f0       Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 00000001800025f0 f   JPiscesRenderer.obj
+ 0001:000018e0       Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 00000001800028e0 f   JPiscesRenderer.obj
+ 0001:00001c90       Java_com_sun_pisces_PiscesRenderer_setTextureImpl 0000000180002c90 f   JPiscesRenderer.obj
+ 0001:00002fa0       Java_com_sun_pisces_Transform6_initialize 0000000180003fa0 f   JTransform.obj
+ 0001:00003010       transform_get6             0000000180004010 f   JTransform.obj
+ 0001:000030d0       blitPTSrc8888_pre          00000001800040d0 f   PiscesBlit.obj
+ 0001:00003310       blitPTSrcMask8888_pre      0000000180004310 f   PiscesBlit.obj
+ 0001:00003530       blitPTSrcOver8888_pre      0000000180004530 f   PiscesBlit.obj
+ 0001:000037b0       blitPTSrcOverMask8888_pre  00000001800047b0 f   PiscesBlit.obj
+ 0001:000039e0       blitSrc8888_pre            00000001800049e0 f   PiscesBlit.obj
+ 0001:00003c30       blitSrcMask8888_pre        0000000180004c30 f   PiscesBlit.obj
+ 0001:00003ea0       blitSrcOver8888_pre        0000000180004ea0 f   PiscesBlit.obj
+ 0001:000040e0       blitSrcOverLCDMask8888_pre 00000001800050e0 f   PiscesBlit.obj
+ 0001:000043d0       blitSrcOverMask8888_pre    00000001800053d0 f   PiscesBlit.obj
+ 0001:00004640       clearRect8888_any          0000000180005640 f   PiscesBlit.obj
+ 0001:000047a0       emitLinePTSource8888_pre   00000001800057a0 f   PiscesBlit.obj
+ 0001:00004be0       emitLinePTSourceOver8888_pre 0000000180005be0 f   PiscesBlit.obj
+ 0001:00005130       emitLineSource8888_pre     0000000180006130 f   PiscesBlit.obj
+ 0001:00005750       emitLineSourceOver8888_pre 0000000180006750 f   PiscesBlit.obj
+ 0001:00005ce0       initGammaArrays            0000000180006ce0 f   PiscesBlit.obj
+ 0001:00005e20       genLinearGradientPaint     0000000180006e20 f   PiscesPaint.obj
+ 0001:00005f60       genRadialGradientPaint     0000000180006f60 f   PiscesPaint.obj
+ 0001:00006410       genTexturePaint            0000000180007410 f   PiscesPaint.obj
+ 0001:00006420       genTexturePaintMultiply    0000000180007420 f   PiscesPaint.obj
+ 0001:00006870       genTexturePaintTarget      0000000180007870 f   PiscesPaint.obj
+ 0001:00008bd0       readAndClearMemErrorFlag   0000000180009bd0 f   PiscesSysutils.obj
+ 0001:00008bf0       readMemErrorFlag           0000000180009bf0 f   PiscesSysutils.obj
+ 0001:00008c00       setMemErrorFlag            0000000180009c00 f   PiscesSysutils.obj
+ 0001:00008c10       pisces_transform_assign    0000000180009c10 f   PiscesTransform.obj
+ 0001:00008c30       pisces_transform_invert    0000000180009c30 f   PiscesTransform.obj
+ 0001:00008d6c       __GSHandlerCheck           0000000180009d6c f   MSVCRT:gshandler.obj
+ 0001:00008d8c       __GSHandlerCheckCommon     0000000180009d8c f   MSVCRT:gshandler.obj
+ 0001:00008e00       __security_check_cookie    0000000180009e00 f   MSVCRT:amdsecgs.obj
+ 0001:00008e30       __vdecl_pow2               0000000180009e30 f   MSVCRT:svml_dpow2_dispatch.obj
+ 0001:00008e40       __vdecl_sin2               0000000180009e40 f   MSVCRT:svml_dsin2_dispatch.obj
+ 0001:00008e50       __libm_sse2_sincos_        0000000180009e50 f   MSVCRT:svml_dsin2_dispatch.obj
+ 0001:000091cc       _DllMainCRTStartup         000000018000a1cc f   MSVCRT:dll_dllmain.obj
+ 0001:0000920c       __raise_securityfailure    000000018000a20c f   MSVCRT:gs_report.obj
+ 0001:00009240       __report_gsfailure         000000018000a240 f   MSVCRT:gs_report.obj
+ 0001:000093b0       __sse2_pow2                000000018000a3b0 f   MSVCRT:svml_dpow2_sse2.obj
+ 0001:0000abb0       __sse2_sin2                000000018000bbb0 f   MSVCRT:svml_dsin2_sse2.obj
+ 0001:0000b070       __security_init_cookie     000000018000c070 f   MSVCRT:gs_support.obj
+ 0001:0000b11c       DllMain                    000000018000c11c f   MSVCRT:dll_dllmain_stub.obj
+ 0001:0000b140       ?__scrt_initialize_type_info@@YAXXZ 000000018000c140 f   MSVCRT:tncleanup.obj
+ 0001:0000b150       ?__scrt_uninitialize_type_info@@YAXXZ 000000018000c150 f   MSVCRT:tncleanup.obj
+ 0001:0000b15c       __local_stdio_printf_options 000000018000c15c f i MSVCRT:default_local_stdio_options.obj
+ 0001:0000b164       __local_stdio_scanf_options 000000018000c164 f i MSVCRT:default_local_stdio_options.obj
+ 0001:0000b16c       __scrt_initialize_default_local_stdio_options 000000018000c16c f   MSVCRT:default_local_stdio_options.obj
+ 0001:0000b188       __scrt_acquire_startup_lock 000000018000c188 f   MSVCRT:utility.obj
+ 0001:0000b1c4       __scrt_dllmain_after_initialize_c 000000018000c1c4 f   MSVCRT:utility.obj
+ 0001:0000b1f8       __scrt_dllmain_before_initialize_c 000000018000c1f8 f   MSVCRT:utility.obj
+ 0001:0000b210       __scrt_dllmain_crt_thread_attach 000000018000c210 f   MSVCRT:utility.obj
+ 0001:0000b238       __scrt_dllmain_crt_thread_detach 000000018000c238 f   MSVCRT:utility.obj
+ 0001:0000b250       __scrt_dllmain_exception_filter 000000018000c250 f   MSVCRT:utility.obj
+ 0001:0000b2b0       __scrt_dllmain_uninitialize_c 000000018000c2b0 f   MSVCRT:utility.obj
+ 0001:0000b2e0       __scrt_dllmain_uninitialize_critical 000000018000c2e0 f   MSVCRT:utility.obj
+ 0001:0000b2f4       __scrt_initialize_crt      000000018000c2f4 f   MSVCRT:utility.obj
+ 0001:0000b340       __scrt_initialize_onexit_tables 000000018000c340 f   MSVCRT:utility.obj
+ 0001:0000b418       __scrt_is_nonwritable_in_current_image 000000018000c418 f   MSVCRT:utility.obj
+ 0001:0000b4b4       __scrt_release_startup_lock 000000018000c4b4 f   MSVCRT:utility.obj
+ 0001:0000b4d8       __scrt_uninitialize_crt    000000018000c4d8 f   MSVCRT:utility.obj
+ 0001:0000b504       __scrt_get_dyn_tls_init_callback 000000018000c504 f   MSVCRT:dyn_tls_init.obj
+ 0001:0000b50c       __crt_debugger_hook        000000018000c50c f   MSVCRT:utility_desktop.obj
+ 0001:0000b514       __scrt_fastfail            000000018000c514 f   MSVCRT:utility_desktop.obj
+ 0001:0000b660       _RTC_Initialize            000000018000c660 f   MSVCRT:initsect.obj
+ 0001:0000b69c       _RTC_Terminate             000000018000c69c f   MSVCRT:initsect.obj
+ 0001:0000b6d8       __isa_available_init       000000018000c6d8 f   MSVCRT:cpu_disp.obj
+ 0001:0000b894       _get_startup_argv_mode     000000018000c894 f   MSVCRT:argv_mode.obj
+ 0001:0000b89c       __scrt_is_ucrt_dll_in_use  000000018000c89c f   MSVCRT:ucrt_detection.obj
+ 0001:0000b8b0       IsProcessorFeaturePresent  000000018000c8b0 f   kernel32:KERNEL32.dll
+ 0001:0000b8b6       memcpy                     000000018000c8b6 f   vcruntime:VCRUNTIME140.dll
+ 0001:0000b8bc       memset                     000000018000c8bc f   vcruntime:VCRUNTIME140.dll
+ 0001:0000b8c2       __C_specific_handler       000000018000c8c2 f   vcruntime:VCRUNTIME140.dll
+ 0001:0000b8c8       __std_type_info_destroy_list 000000018000c8c8 f   vcruntime:VCRUNTIME140.dll
+ 0001:0000b8ce       sqrt                       000000018000c8ce f   ucrt:api-ms-win-crt-math-l1-1-0.dll
+ 0001:0000b8d4       _initterm                  000000018000c8d4 f   ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0001:0000b8da       _initterm_e                000000018000c8da f   ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0001:0000b8e0       _seh_filter_dll            000000018000c8e0 f   ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0001:0000b8e6       _configure_narrow_argv     000000018000c8e6 f   ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0001:0000b8ec       _initialize_narrow_environment 000000018000c8ec f   ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0001:0000b8f2       _initialize_onexit_table   000000018000c8f2 f   ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0001:0000b8f8       _execute_onexit_table      000000018000c8f8 f   ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0001:0000b8fe       _cexit                     000000018000c8fe f   ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0001:0000b904       __scrt_stub_for_acrt_thread_detach 000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __vcrt_uninitialize        000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __scrt_stub_for_acrt_initialize 000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __scrt_stub_for_acrt_uninitialize 000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __vcrt_uninitialize_critical 000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __acrt_thread_attach       000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __acrt_uninitialize_critical 000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __acrt_uninitialize        000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __vcrt_thread_detach       000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __vcrt_initialize          000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __acrt_thread_detach       000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __vcrt_thread_attach       000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __acrt_initialize          000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __scrt_stub_for_acrt_thread_attach 000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b904       __scrt_stub_for_acrt_uninitialize_critical 000000018000c904 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b908       __scrt_stub_for_is_c_termination_complete 000000018000c908 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b908       _is_c_termination_complete 000000018000c908 f   MSVCRT:ucrt_stubs.obj
+ 0001:0000b920       _guard_dispatch_icall_nop  000000018000c920 f   MSVCRT:guard_dispatch.obj
+ 0002:00000000       __imp_RtlCaptureContext    000000018000d000     kernel32:KERNEL32.dll
+ 0002:00000008       __imp_RtlLookupFunctionEntry 000000018000d008     kernel32:KERNEL32.dll
+ 0002:00000010       __imp_RtlVirtualUnwind     000000018000d010     kernel32:KERNEL32.dll
+ 0002:00000018       __imp_UnhandledExceptionFilter 000000018000d018     kernel32:KERNEL32.dll
+ 0002:00000020       __imp_SetUnhandledExceptionFilter 000000018000d020     kernel32:KERNEL32.dll
+ 0002:00000028       __imp_GetCurrentProcess    000000018000d028     kernel32:KERNEL32.dll
+ 0002:00000030       __imp_TerminateProcess     000000018000d030     kernel32:KERNEL32.dll
+ 0002:00000038       __imp_IsProcessorFeaturePresent 000000018000d038     kernel32:KERNEL32.dll
+ 0002:00000040       __imp_QueryPerformanceCounter 000000018000d040     kernel32:KERNEL32.dll
+ 0002:00000048       __imp_GetCurrentProcessId  000000018000d048     kernel32:KERNEL32.dll
+ 0002:00000050       __imp_GetCurrentThreadId   000000018000d050     kernel32:KERNEL32.dll
+ 0002:00000058       __imp_GetSystemTimeAsFileTime 000000018000d058     kernel32:KERNEL32.dll
+ 0002:00000060       __imp_DisableThreadLibraryCalls 000000018000d060     kernel32:KERNEL32.dll
+ 0002:00000068       __imp_InitializeSListHead  000000018000d068     kernel32:KERNEL32.dll
+ 0002:00000070       __imp_IsDebuggerPresent    000000018000d070     kernel32:KERNEL32.dll
+ 0002:00000078       \177KERNEL32_NULL_THUNK_DATA 000000018000d078     kernel32:KERNEL32.dll
+ 0002:00000080       __imp_memset               000000018000d080     vcruntime:VCRUNTIME140.dll
+ 0002:00000088       __imp___C_specific_handler 000000018000d088     vcruntime:VCRUNTIME140.dll
+ 0002:00000090       __imp___std_type_info_destroy_list 000000018000d090     vcruntime:VCRUNTIME140.dll
+ 0002:00000098       __imp_memcpy               000000018000d098     vcruntime:VCRUNTIME140.dll
+ 0002:000000a0       \177VCRUNTIME140_NULL_THUNK_DATA 000000018000d0a0     vcruntime:VCRUNTIME140.dll
+ 0002:000000a8       __imp_calloc               000000018000d0a8     ucrt:api-ms-win-crt-heap-l1-1-0.dll
+ 0002:000000b0       __imp_free                 000000018000d0b0     ucrt:api-ms-win-crt-heap-l1-1-0.dll
+ 0002:000000b8       \177api-ms-win-crt-heap-l1-1-0_NULL_THUNK_DATA 000000018000d0b8     ucrt:api-ms-win-crt-heap-l1-1-0.dll
+ 0002:000000c0       __imp_sqrt                 000000018000d0c0     ucrt:api-ms-win-crt-math-l1-1-0.dll
+ 0002:000000c8       \177api-ms-win-crt-math-l1-1-0_NULL_THUNK_DATA 000000018000d0c8     ucrt:api-ms-win-crt-math-l1-1-0.dll
+ 0002:000000d0       __imp__seh_filter_dll      000000018000d0d0     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:000000d8       __imp__configure_narrow_argv 000000018000d0d8     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:000000e0       __imp__initterm_e          000000018000d0e0     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:000000e8       __imp__initialize_onexit_table 000000018000d0e8     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:000000f0       __imp__execute_onexit_table 000000018000d0f0     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:000000f8       __imp__cexit               000000018000d0f8     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:00000100       __imp__initterm            000000018000d100     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:00000108       __imp__initialize_narrow_environment 000000018000d108     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:00000110       \177api-ms-win-crt-runtime-l1-1-0_NULL_THUNK_DATA 000000018000d110     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:00000118       __guard_check_icall_fptr   000000018000d118     MSVCRT:guard_support.obj
+ 0002:00000120       __guard_dispatch_icall_fptr 000000018000d120     MSVCRT:guard_support.obj
+ 0002:00000128       __xc_a                     000000018000d128     MSVCRT:initializers.obj
+ 0002:00000130       __xc_z                     000000018000d130     MSVCRT:initializers.obj
+ 0002:00000138       __xi_a                     000000018000d138     MSVCRT:initializers.obj
+ 0002:00000140       __xi_z                     000000018000d140     MSVCRT:initializers.obj
+ 0002:00000148       __xp_a                     000000018000d148     MSVCRT:initializers.obj
+ 0002:00000150       __xp_z                     000000018000d150     MSVCRT:initializers.obj
+ 0002:00000158       __xt_a                     000000018000d158     MSVCRT:initializers.obj
+ 0002:00000160       __xt_z                     000000018000d160     MSVCRT:initializers.obj
+ 0002:00000190       ??_C@_09KHCCGCEK@nativePtr@ 000000018000d190     JAbstractSurface.obj
+ 0002:0000019c       ??_C@_01LELAEKIP@J@        000000018000d19c     JAbstractSurface.obj
+ 0002:000001a0       ??_C@_0BO@JFIOFGOI@Out?5of?5range?5access?5of?5buffer@ 000000018000d1a0     JAbstractSurface.obj
+ 0002:000001c0       ??_C@_0CD@MOHADDFA@java?1lang?1IllegalArgumentExcept@ 000000018000d1c0     JAbstractSurface.obj
+ 0002:000001e8       ??_C@_0CP@ILDHGND@Allocation?5of?5internal?5renderer@ 000000018000d1e8     JAbstractSurface.obj
+ 0002:00000218       ??_C@_0BL@ENCPOIKC@java?1lang?1OutOfMemoryError@ 000000018000d218     JAbstractSurface.obj
+ 0002:00000238       ??_C@_0DH@NOJBMDAL@Allocation?5of?5temporary?5rendere@ 000000018000d238     JAbstractSurface.obj
+ 0002:00000270       ??_C@_0BO@HEFGCOOM@out?5of?5range?5access?5of?5buffer@ 000000018000d270     JAbstractSurface.obj
+ 0002:000002c0       ??_C@_07DIFKJFMD@dataInt@  000000018000d2c0     JJavaSurface.obj
+ 0002:000002c8       ??_C@_02EBOMBDPA@?$FLI@    000000018000d2c8     JJavaSurface.obj
+ 0002:000002cb       ??_C@_00CNPNBAHC@@         000000018000d2cb     JJavaSurface.obj
+ 0002:000002d0       ??_C@_0CA@EJBFMCPI@java?1lang?1IllegalStateException@ 000000018000d2d0     JJavaSurface.obj
+ 0002:000002f0       ??_C@_0CD@GOAEKJCG@Failed?5to?5load?5an?5exception?5cla@ 000000018000d2f0     JNIUtil.obj
+ 0002:00000318       ??_C@_0BO@HBPGMHPN@Failed?5to?5throw?5an?5exception?$CB@ 000000018000d318     JNIUtil.obj
+ 0002:00000338       ??_C@_07IHELBNLD@surface@  000000018000d338     JPiscesRenderer.obj
+ 0002:00000340       ??_C@_0CB@GFOPFHIF@Lcom?1sun?1pisces?1AbstractSurface@ 000000018000d340     JPiscesRenderer.obj
+ 0002:00000368       ??_C@_0DB@POAAGDAE@Allocation?5of?5internal?5renderer@ 000000018000d368     JPiscesRenderer.obj
+ 0002:0000039c       __real@37800000            000000018000d39c     JPiscesRenderer.obj
+ 0002:000003a0       __real@3f70a3d7            000000018000d3a0     JPiscesRenderer.obj
+ 0002:000003a4       __real@3f7851ec            000000018000d3a4     JPiscesRenderer.obj
+ 0002:000003a8       __real@47800000            000000018000d3a8     JPiscesRenderer.obj
+ 0002:00000420       ??_C@_03OMNKNMFO@m00@      000000018000d420     JTransform.obj
+ 0002:00000424       ??_C@_01JPJNBJEM@I@        000000018000d424     JTransform.obj
+ 0002:00000428       ??_C@_03PFMBONBP@m01@      000000018000d428     JTransform.obj
+ 0002:0000042c       ??_C@_03ONBILGGJ@m10@      000000018000d42c     JTransform.obj
+ 0002:00000430       ??_C@_03PEADIHCI@m11@      000000018000d430     JTransform.obj
+ 0002:00000434       ??_C@_03NOOMLONM@m02@      000000018000d434     JTransform.obj
+ 0002:00000438       ??_C@_03NPCONEOL@m12@      000000018000d438     JTransform.obj
+ 0002:0000043c       __real@3f800000            000000018000d43c     PiscesBlit.obj
+ 0002:00000440       __xmm@00000003000000020000000100000000 000000018000d440     PiscesBlit.obj
+ 0002:00000450       __xmm@406fe00000000000406fe00000000000 000000018000d450     PiscesBlit.obj
+ 0002:00000460       __xmm@80000000800000008000000080000000 000000018000d460     PiscesMath.obj
+ 0002:00000470       __real@4f800000            000000018000d470     PiscesPaint.obj
+ 0002:00000474       __real@c0000000            000000018000d474     PiscesPaint.obj
+ 0002:000004d0       _pDefaultRawDllMain        000000018000d4d0     MSVCRT:dll_dllmain.obj
+ 0002:000004d0       _pRawDllMain               000000018000d4d0     MSVCRT:dll_dllmain.obj
+ 0002:00006fc0       _load_config_used          0000000180013fc0     MSVCRT:loadcfg.obj
+ 0002:00007310       __rtc_iaa                  0000000180014310     MSVCRT:initsect.obj
+ 0002:00007318       __rtc_izz                  0000000180014318     MSVCRT:initsect.obj
+ 0002:00007320       __rtc_taa                  0000000180014320     MSVCRT:initsect.obj
+ 0002:00007328       __rtc_tzz                  0000000180014328     MSVCRT:initsect.obj
+ 0002:00008268       __IMPORT_DESCRIPTOR_KERNEL32 0000000180015268     kernel32:KERNEL32.dll
+ 0002:0000827c       __IMPORT_DESCRIPTOR_VCRUNTIME140 000000018001527c     vcruntime:VCRUNTIME140.dll
+ 0002:00008290       __IMPORT_DESCRIPTOR_api-ms-win-crt-heap-l1-1-0 0000000180015290     ucrt:api-ms-win-crt-heap-l1-1-0.dll
+ 0002:000082a4       __IMPORT_DESCRIPTOR_api-ms-win-crt-math-l1-1-0 00000001800152a4     ucrt:api-ms-win-crt-math-l1-1-0.dll
+ 0002:000082b8       __IMPORT_DESCRIPTOR_api-ms-win-crt-runtime-l1-1-0 00000001800152b8     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0002:000082cc       __NULL_IMPORT_DESCRIPTOR   00000001800152cc     kernel32:KERNEL32.dll
+ 0003:00000690       __security_cookie_complement 0000000180016690     MSVCRT:gs_cookie.obj
+ 0003:00000698       __security_cookie          0000000180016698     MSVCRT:gs_cookie.obj
+ 0003:000006a0       _fltused                   00000001800166a0     MSVCRT:fltused.obj
+ 0003:000006b0       __scrt_native_dllmain_reason 00000001800166b0     MSVCRT:utility.obj
+ 0003:000006b8       __isa_available            00000001800166b8     MSVCRT:cpu_disp.obj
+ 0003:000006bc       __isa_enabled              00000001800166bc     MSVCRT:cpu_disp.obj
+ 0003:000006c0       __memcpy_nt_iters          00000001800166c0     MSVCRT:cpu_disp.obj
+ 0003:000006d0       __scrt_ucrt_dll_is_in_use  00000001800166d0     MSVCRT:ucrt_stubs.obj
+ 0003:000014e0       ?__type_info_root_node@@3U__type_info_node@@A 00000001800174e0     MSVCRT:tncleanup.obj
+ 0003:000014f0       ?_OptionsStorage@?1??__local_stdio_printf_options@@9@4_KA 00000001800174f0     MSVCRT:default_local_stdio_options.obj
+ 0003:000014f8       ?_OptionsStorage@?1??__local_stdio_scanf_options@@9@4_KA 00000001800174f8     MSVCRT:default_local_stdio_options.obj
+ 0003:00001500       __scrt_current_native_startup_state 0000000180017500     MSVCRT:utility.obj
+ 0003:00001508       __scrt_native_startup_lock 0000000180017508     MSVCRT:utility.obj
+ 0003:00001548       __scrt_debugger_hook_flag  0000000180017548     MSVCRT:utility_desktop.obj
+ 0003:0000154c       __favor                    000000018001754c     MSVCRT:cpu_disp.obj
+ 0003:00001550       __dyn_tls_init_callback    0000000180017550     <common>
+
+ entry point at        0001:000091cc
+
+ Static symbols
+
+ 0001:00000700       surface_acquire            0000000180001700 f   JJavaSurface.obj
+ 0001:000007b0       surface_cleanup            00000001800017b0 f   JJavaSurface.obj
+ 0001:000007c0       surface_release            00000001800017c0 f   JJavaSurface.obj
+ 0001:00001ee0       fillAlphaMask              0000000180002ee0 f   JPiscesRenderer.obj
+ 0001:000021d0       fillRect                   00000001800031d0 f   JPiscesRenderer.obj
+ 0001:00002710       renderer_clearRect         0000000180003710 f   JPiscesRenderer.obj
+ 0001:00002870       renderer_setTexture        0000000180003870 f   JPiscesRenderer.obj
+ 0001:00002b10       setPaintMode               0000000180003b10 f   JPiscesRenderer.obj
+ 0001:00002ba0       updateCompositeDependedRoutines 0000000180003ba0 f   JPiscesRenderer.obj
+ 0001:00002c70       updateInternalColor        0000000180003c70 f   JPiscesRenderer.obj
+ 0001:00002cb0       updateMaskDependedRoutines 0000000180003cb0 f   JPiscesRenderer.obj
+ 0001:00002d80       updatePaintDependedRoutines 0000000180003d80 f   JPiscesRenderer.obj
+ 0001:00002e20       updateRendererSurface      0000000180003e20 f   JPiscesRenderer.obj
+ 0001:000086f4       $LN616                     00000001800096f4     PiscesPaint.obj
+ 0001:0000870c       $LN615                     000000018000970c     PiscesPaint.obj
+ 0001:00008724       $LN614                     0000000180009724     PiscesPaint.obj
+ 0001:00008740       interpolate2points         0000000180009740 f   PiscesPaint.obj
+ 0001:00008800       interpolate2pointsNoAlpha  0000000180009800 f   PiscesPaint.obj
+ 0001:00008890       interpolate4points         0000000180009890 f   PiscesPaint.obj
+ 0001:00008a60       interpolate4pointsNoAlpha  0000000180009a60 f   PiscesPaint.obj
+ 0001:00008df0       $$000000                   0000000180009df0     MSVCRT:amdsecgs.obj
+ 0001:00008e30       $$000000                   0000000180009e30     MSVCRT:svml_dpow2_dispatch.obj
+ 0001:00008e40       $$000000                   0000000180009e40     MSVCRT:svml_dsin2_dispatch.obj
+ 0001:00008e9c       ?dllmain_crt_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z 0000000180009e9c f   MSVCRT:dll_dllmain.obj
+ 0001:00008eec       ?dllmain_crt_process_attach@@YAHQEAUHINSTANCE__@@QEAX@Z 0000000180009eec f   MSVCRT:dll_dllmain.obj
+ 0001:00009008       ?dllmain_crt_process_detach@@YAH_N@Z 000000018000a008 f   MSVCRT:dll_dllmain.obj
+ 0001:00009098       ?dllmain_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z 000000018000a098 f   MSVCRT:dll_dllmain.obj
+ 0001:00009314       capture_previous_context   000000018000a314 f   MSVCRT:gs_report.obj
+ 0001:00009390       _raise_zerodivide          000000018000a390 f   MSVCRT:svml_dpow2_sse2.obj
+ 0001:00009390       $$000000                   000000018000a390     MSVCRT:svml_dpow2_sse2.obj
+ 0001:00009830       pow_scalar                 000000018000a830 f   MSVCRT:svml_dpow2_sse2.obj
+ 0001:0000a6b0       _raise_invalid             000000018000b6b0 f   MSVCRT:svml_dpow2_sse2.obj
+ 0001:0000a6c0       $$000000                   000000018000b6c0     MSVCRT:svml_dsin2_sse2.obj
+ 0001:0000a6c0       __static_scalar_sin        000000018000b6c0 f   MSVCRT:svml_dsin2_sse2.obj
+ 0001:0000b910       $$000000                   000000018000c910     MSVCRT:guard_dispatch.obj
+ 0001:0000b922       ?fin$0@?0??dllmain_crt_process_attach@@YAHQEAUHINSTANCE__@@QEAX@Z@4HA 000000018000c922 f   MSVCRT:dll_dllmain.obj
+ 0001:0000b939       ?fin$0@?0??dllmain_crt_process_detach@@YAH_N@Z@4HA 000000018000c939 f   MSVCRT:dll_dllmain.obj
+ 0001:0000b955       ?filt$0@?0??dllmain_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z@4HA 000000018000c955 f   MSVCRT:dll_dllmain.obj
+ 0001:0000b98b       __scrt_is_nonwritable_in_current_image$filt$0 000000018000c98b f   MSVCRT:utility.obj
+ 0002:00000170       ?surfaceFieldDesc@?1??initializeSurfaceFieldIds@@9@9 000000018000d170     JAbstractSurface.obj
+ 0002:00000290       ?surfaceFieldDesc@?1??initializeSurfaceFieldIds@@9@9 000000018000d290     JJavaSurface.obj
+ 0002:000003b0       ?transformFieldDesc@?1??initializeTransformFieldIds@@9@9 000000018000d3b0     JTransform.obj
+ 0002:00000480       L_abs_mask                 000000018000d480     MSVCRT:svml_dsin2_dispatch.obj
+ 0002:00000490       L_real_one                 000000018000d490     MSVCRT:svml_dsin2_dispatch.obj
+ 0002:000004a0       L_one_half                 000000018000d4a0     MSVCRT:svml_dsin2_dispatch.obj
+ 0002:000004b0       L_two_to_neg_27            000000018000d4b0     MSVCRT:svml_dsin2_dispatch.obj
+ 0002:000004c0       L_pi_over_two              000000018000d4c0     MSVCRT:svml_dsin2_dispatch.obj
+ 0002:000004d8       GS_ExceptionPointers       000000018000d4d8     MSVCRT:gs_report.obj
+ 0002:000004f0       s_Data                     000000018000d4f0     MSVCRT:svml_dpow2_sse2.obj
+ 0002:00006f80       _2il0floatpacket_14        0000000180013f80     MSVCRT:svml_dpow2_sse2.obj
+ 0002:00006f88       _2il0floatpacket_15        0000000180013f88     MSVCRT:svml_dpow2_sse2.obj
+ 0002:00006f90       _2il0floatpacket_16        0000000180013f90     MSVCRT:svml_dpow2_sse2.obj
+ 0002:00007330       $unwind$surface_initialize 0000000180014330     JAbstractSurface.obj
+ 0002:0000733c       $unwind$Java_com_sun_pisces_AbstractSurface_nativeFinalize 000000018001433c     JAbstractSurface.obj
+ 0002:00007348       $chain$0$Java_com_sun_pisces_AbstractSurface_nativeFinalize 0000000180014348     JAbstractSurface.obj
+ 0002:0000735c       $chain$1$Java_com_sun_pisces_AbstractSurface_nativeFinalize 000000018001435c     JAbstractSurface.obj
+ 0002:0000736c       $unwind$Java_com_sun_pisces_AbstractSurface_setRGBImpl 000000018001436c     JAbstractSurface.obj
+ 0002:0000736c       $unwind$Java_com_sun_pisces_AbstractSurface_getRGBImpl 000000018001436c     JAbstractSurface.obj
+ 0002:00007384       $unwind$initializeFieldIds 0000000180014384     JNIUtil.obj
+ 0002:00007384       $unwind$Java_com_sun_pisces_JavaSurface_initialize 0000000180014384     JJavaSurface.obj
+ 0002:00007384       $unwind$__scrt_dllmain_exception_filter 0000000180014384     MSVCRT:utility.obj
+ 0002:00007398       $unwind$_RTC_Initialize    0000000180014398     MSVCRT:initsect.obj
+ 0002:00007398       $unwind$setPaintMode       0000000180014398     JPiscesRenderer.obj
+ 0002:00007398       $unwind$Java_com_sun_pisces_PiscesRenderer_setCompositeRuleImpl 0000000180014398     JPiscesRenderer.obj
+ 0002:00007398       $unwind$surface_acquire    0000000180014398     JJavaSurface.obj
+ 0002:00007398       $unwind$_RTC_Terminate     0000000180014398     MSVCRT:initsect.obj
+ 0002:000073a4       $unwind$Java_com_sun_pisces_Transform6_initialize 00000001800143a4     JTransform.obj
+ 0002:000073a4       $unwind$__scrt_initialize_crt 00000001800143a4     MSVCRT:utility.obj
+ 0002:000073a4       $unwind$__scrt_uninitialize_crt 00000001800143a4     MSVCRT:utility.obj
+ 0002:000073a4       $unwind$__raise_securityfailure 00000001800143a4     MSVCRT:gs_report.obj
+ 0002:000073a4       $unwind$__scrt_release_startup_lock 00000001800143a4     MSVCRT:utility.obj
+ 0002:000073a4       $unwind$surface_release    00000001800143a4     JJavaSurface.obj
+ 0002:000073ac       $unwind$_DllMainCRTStartup 00000001800143ac     MSVCRT:dll_dllmain.obj
+ 0002:000073ac       $unwind$Java_com_sun_pisces_PiscesRenderer_setColorImpl 00000001800143ac     JPiscesRenderer.obj
+ 0002:000073ac       $unwind$Java_com_sun_pisces_PiscesRenderer_setClipImpl 00000001800143ac     JPiscesRenderer.obj
+ 0002:000073ac       $unwind$JNI_ThrowNew       00000001800143ac     JNIUtil.obj
+ 0002:000073ac       $unwind$transform_get6     00000001800143ac     JTransform.obj
+ 0002:000073bc       $unwind$DllMain            00000001800143bc     MSVCRT:dll_dllmain_stub.obj
+ 0002:000073bc       $unwind$__scrt_initialize_default_local_stdio_options 00000001800143bc     MSVCRT:default_local_stdio_options.obj
+ 0002:000073bc       $unwind$updateRendererSurface 00000001800143bc     JPiscesRenderer.obj
+ 0002:000073bc       $unwind$updateMaskDependedRoutines 00000001800143bc     JPiscesRenderer.obj
+ 0002:000073bc       $unwind$?dllmain_crt_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z 00000001800143bc     MSVCRT:dll_dllmain.obj
+ 0002:000073bc       $unwind$__scrt_acquire_startup_lock 00000001800143bc     MSVCRT:utility.obj
+ 0002:000073bc       $unwind$__scrt_dllmain_crt_thread_attach 00000001800143bc     MSVCRT:utility.obj
+ 0002:000073bc       $unwind$__scrt_dllmain_crt_thread_detach 00000001800143bc     MSVCRT:utility.obj
+ 0002:000073bc       $unwind$__scrt_dllmain_uninitialize_critical 00000001800143bc     MSVCRT:utility.obj
+ 0002:000073bc       $unwind$__scrt_dllmain_uninitialize_c 00000001800143bc     MSVCRT:utility.obj
+ 0002:000073bc       $unwind$updateCompositeDependedRoutines 00000001800143bc     JPiscesRenderer.obj
+ 0002:000073bc       $unwind$__scrt_dllmain_before_initialize_c 00000001800143bc     MSVCRT:utility.obj
+ 0002:000073bc       $unwind$__scrt_dllmain_after_initialize_c 00000001800143bc     MSVCRT:utility.obj
+ 0002:000073bc       $unwind$__GSHandlerCheck   00000001800143bc     MSVCRT:gshandler.obj
+ 0002:000073c4       $unwind$renderer_setTexture 00000001800143c4     JPiscesRenderer.obj
+ 0002:000073e0       $unwind$Java_com_sun_pisces_PiscesRenderer_clearRectImpl 00000001800143e0     JPiscesRenderer.obj
+ 0002:000073e0       $unwind$renderer_clearRect 00000001800143e0     JPiscesRenderer.obj
+ 0002:000073f8       $unwind$fillAlphaMask      00000001800143f8     JPiscesRenderer.obj
+ 0002:00007408       $chain$0$fillAlphaMask     0000000180014408     JPiscesRenderer.obj
+ 0002:0000741c       $chain$3$fillAlphaMask     000000018001441c     JPiscesRenderer.obj
+ 0002:00007438       $chain$4$fillAlphaMask     0000000180014438     JPiscesRenderer.obj
+ 0002:0000744c       $chain$5$fillAlphaMask     000000018001444c     JPiscesRenderer.obj
+ 0002:0000745c       $chain$6$fillAlphaMask     000000018001445c     JPiscesRenderer.obj
+ 0002:0000746c       $unwind$Java_com_sun_pisces_PiscesRenderer_initialize 000000018001446c     JPiscesRenderer.obj
+ 0002:00007478       $chain$0$Java_com_sun_pisces_PiscesRenderer_initialize 0000000180014478     JPiscesRenderer.obj
+ 0002:0000748c       $chain$3$Java_com_sun_pisces_PiscesRenderer_initialize 000000018001448c     JPiscesRenderer.obj
+ 0002:0000748c       $chain$1$Java_com_sun_pisces_PiscesRenderer_initialize 000000018001448c     JPiscesRenderer.obj
+ 0002:0000749c       $chain$2$Java_com_sun_pisces_PiscesRenderer_initialize 000000018001449c     JPiscesRenderer.obj
+ 0002:000074b0       $unwind$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 00000001800144b0     JPiscesRenderer.obj
+ 0002:000074b8       $chain$0$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 00000001800144b8     JPiscesRenderer.obj
+ 0002:000074cc       $chain$1$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 00000001800144cc     JPiscesRenderer.obj
+ 0002:000074e0       $chain$2$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 00000001800144e0     JPiscesRenderer.obj
+ 0002:000074f0       $chain$3$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 00000001800144f0     JPiscesRenderer.obj
+ 0002:00007500       $unwind$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 0000000180014500     JPiscesRenderer.obj
+ 0002:00007514       $chain$5$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 0000000180014514     JPiscesRenderer.obj
+ 0002:0000753c       $chain$8$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 000000018001453c     JPiscesRenderer.obj
+ 0002:00007558       $chain$9$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 0000000180014558     JPiscesRenderer.obj
+ 0002:00007568       $chain$10$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 0000000180014568     JPiscesRenderer.obj
+ 0002:00007578       $unwind$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 0000000180014578     JPiscesRenderer.obj
+ 0002:0000758c       $chain$5$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 000000018001458c     JPiscesRenderer.obj
+ 0002:000075b4       $chain$10$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 00000001800145b4     JPiscesRenderer.obj
+ 0002:000075d8       $chain$11$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 00000001800145d8     JPiscesRenderer.obj
+ 0002:000075e8       $chain$12$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 00000001800145e8     JPiscesRenderer.obj
+ 0002:000075f8       $unwind$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 00000001800145f8     JPiscesRenderer.obj
+ 0002:0000760c       $chain$5$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 000000018001460c     JPiscesRenderer.obj
+ 0002:00007634       $chain$6$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 0000000180014634     JPiscesRenderer.obj
+ 0002:00007648       $chain$7$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 0000000180014648     JPiscesRenderer.obj
+ 0002:00007658       $chain$8$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 0000000180014658     JPiscesRenderer.obj
+ 0002:00007668       $unwind$fillRect           0000000180014668     JPiscesRenderer.obj
+ 0002:00007680       $unwind$Java_com_sun_pisces_PiscesRenderer_fillRectImpl 0000000180014680     JPiscesRenderer.obj
+ 0002:00007694       $unwind$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 0000000180014694     JPiscesRenderer.obj
+ 0002:0000769c       $chain$4$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 000000018001469c     JPiscesRenderer.obj
+ 0002:000076c0       $chain$5$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800146c0     JPiscesRenderer.obj
+ 0002:000076d4       $chain$6$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800146d4     JPiscesRenderer.obj
+ 0002:000076e8       $chain$7$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800146e8     JPiscesRenderer.obj
+ 0002:000076f8       $chain$8$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800146f8     JPiscesRenderer.obj
+ 0002:00007708       $chain$9$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 0000000180014708     JPiscesRenderer.obj
+ 0002:00007718       $unwind$Java_com_sun_pisces_PiscesRenderer_drawImageImpl 0000000180014718     JPiscesRenderer.obj
+ 0002:0000773c       $unwind$Java_com_sun_pisces_PiscesRenderer_fillAlphaMaskImpl 000000018001473c     JPiscesRenderer.obj
+ 0002:00007758       $unwind$Java_com_sun_pisces_PiscesRenderer_fillLCDAlphaMaskImpl 0000000180014758     JPiscesRenderer.obj
+ 0002:00007770       $unwind$initGammaArrays    0000000180014770     PiscesBlit.obj
+ 0002:00007778       $chain$7$initGammaArrays   0000000180014778     PiscesBlit.obj
+ 0002:000077a8       $chain$8$initGammaArrays   00000001800147a8     PiscesBlit.obj
+ 0002:000077b8       $unwind$blitSrc8888_pre    00000001800147b8     PiscesBlit.obj
+ 0002:000077b8       $unwind$blitSrcMask8888_pre 00000001800147b8     PiscesBlit.obj
+ 0002:000077cc       $chain$1$blitSrc8888_pre   00000001800147cc     PiscesBlit.obj
+ 0002:000077e4       $chain$2$blitSrc8888_pre   00000001800147e4     PiscesBlit.obj
+ 0002:000077f4       $chain$1$blitSrcMask8888_pre 00000001800147f4     PiscesBlit.obj
+ 0002:0000780c       $chain$2$blitSrcMask8888_pre 000000018001480c     PiscesBlit.obj
+ 0002:0000781c       $unwind$blitPTSrc8888_pre  000000018001481c     PiscesBlit.obj
+ 0002:0000782c       $chain$2$blitPTSrc8888_pre 000000018001482c     PiscesBlit.obj
+ 0002:00007848       $chain$3$blitPTSrc8888_pre 0000000180014848     PiscesBlit.obj
+ 0002:00007858       $unwind$blitPTSrcMask8888_pre 0000000180014858     PiscesBlit.obj
+ 0002:00007868       $chain$3$blitPTSrcMask8888_pre 0000000180014868     PiscesBlit.obj
+ 0002:00007888       $chain$4$blitPTSrcMask8888_pre 0000000180014888     PiscesBlit.obj
+ 0002:00007898       $unwind$blitSrcOver8888_pre 0000000180014898     PiscesBlit.obj
+ 0002:000078ac       $chain$1$blitSrcOver8888_pre 00000001800148ac     PiscesBlit.obj
+ 0002:000078c4       $chain$2$blitSrcOver8888_pre 00000001800148c4     PiscesBlit.obj
+ 0002:000078d4       $unwind$blitSrcOverMask8888_pre 00000001800148d4     PiscesBlit.obj
+ 0002:000078e8       $chain$0$blitSrcOverMask8888_pre 00000001800148e8     PiscesBlit.obj
+ 0002:000078fc       $chain$1$blitSrcOverMask8888_pre 00000001800148fc     PiscesBlit.obj
+ 0002:0000790c       $unwind$blitSrcOverLCDMask8888_pre 000000018001490c     PiscesBlit.obj
+ 0002:00007920       $chain$1$blitSrcOverLCDMask8888_pre 0000000180014920     PiscesBlit.obj
+ 0002:00007938       $chain$2$blitSrcOverLCDMask8888_pre 0000000180014938     PiscesBlit.obj
+ 0002:00007948       $unwind$blitPTSrcOver8888_pre 0000000180014948     PiscesBlit.obj
+ 0002:00007958       $chain$3$blitPTSrcOver8888_pre 0000000180014958     PiscesBlit.obj
+ 0002:00007978       $chain$4$blitPTSrcOver8888_pre 0000000180014978     PiscesBlit.obj
+ 0002:00007988       $unwind$blitPTSrcOverMask8888_pre 0000000180014988     PiscesBlit.obj
+ 0002:00007998       $chain$2$blitPTSrcOverMask8888_pre 0000000180014998     PiscesBlit.obj
+ 0002:000079b4       $chain$3$blitPTSrcOverMask8888_pre 00000001800149b4     PiscesBlit.obj
+ 0002:000079c4       $unwind$clearRect8888_any  00000001800149c4     PiscesBlit.obj
+ 0002:000079d4       $chain$0$clearRect8888_any 00000001800149d4     PiscesBlit.obj
+ 0002:000079e8       $chain$1$clearRect8888_any 00000001800149e8     PiscesBlit.obj
+ 0002:000079f8       $unwind$emitLineSource8888_pre 00000001800149f8     PiscesBlit.obj
+ 0002:00007a10       $unwind$emitLinePTSource8888_pre 0000000180014a10     PiscesBlit.obj
+ 0002:00007a24       $chain$0$emitLinePTSource8888_pre 0000000180014a24     PiscesBlit.obj
+ 0002:00007a38       $chain$1$emitLinePTSource8888_pre 0000000180014a38     PiscesBlit.obj
+ 0002:00007a48       $unwind$genTexturePaintMultiply 0000000180014a48     PiscesPaint.obj
+ 0002:00007a48       $unwind$emitLineSourceOver8888_pre 0000000180014a48     PiscesBlit.obj
+ 0002:00007a60       $unwind$emitLinePTSourceOver8888_pre 0000000180014a60     PiscesBlit.obj
+ 0002:00007a74       $chain$0$emitLinePTSourceOver8888_pre 0000000180014a74     PiscesBlit.obj
+ 0002:00007a88       $chain$1$emitLinePTSourceOver8888_pre 0000000180014a88     PiscesBlit.obj
+ 0002:00007a98       $unwind$genLinearGradientPaint 0000000180014a98     PiscesPaint.obj
+ 0002:00007aa4       $chain$2$genLinearGradientPaint 0000000180014aa4     PiscesPaint.obj
+ 0002:00007ac0       $chain$3$genLinearGradientPaint 0000000180014ac0     PiscesPaint.obj
+ 0002:00007ad0       $unwind$genRadialGradientPaint 0000000180014ad0     PiscesPaint.obj
+ 0002:00007b00       $chain$5$genRadialGradientPaint 0000000180014b00     PiscesPaint.obj
+ 0002:00007b28       $chain$6$genRadialGradientPaint 0000000180014b28     PiscesPaint.obj
+ 0002:00007b38       $unwind$interpolate2points 0000000180014b38     PiscesPaint.obj
+ 0002:00007b44       $unwind$interpolate4pointsNoAlpha 0000000180014b44     PiscesPaint.obj
+ 0002:00007b44       $unwind$interpolate4points 0000000180014b44     PiscesPaint.obj
+ 0002:00007b5c       $unwind$interpolate2pointsNoAlpha 0000000180014b5c     PiscesPaint.obj
+ 0002:00007b64       $unwind$genTexturePaintTarget 0000000180014b64     PiscesPaint.obj
+ 0002:00007b7c       $chain$0$genTexturePaintTarget 0000000180014b7c     PiscesPaint.obj
+ 0002:00007b90       $chain$1$genTexturePaintTarget 0000000180014b90     PiscesPaint.obj
+ 0002:00007ba0       $unwind$pisces_transform_invert 0000000180014ba0     PiscesTransform.obj
+ 0002:00007bb8       $unwind$__GSHandlerCheckCommon 0000000180014bb8     MSVCRT:gshandler.obj
+ 0002:00007bc0       $xdatasym                  0000000180014bc0     MSVCRT:amdsecgs.obj
+ 0002:00007bc4       $unwind$?dllmain_crt_process_attach@@YAHQEAUHINSTANCE__@@QEAX@Z 0000000180014bc4     MSVCRT:dll_dllmain.obj
+ 0002:00007c00       $unwind$?fin$0@?0??dllmain_crt_process_detach@@YAH_N@Z@4HA 0000000180014c00     MSVCRT:dll_dllmain.obj
+ 0002:00007c00       $unwind$?fin$0@?0??dllmain_crt_process_attach@@YAHQEAUHINSTANCE__@@QEAX@Z@4HA 0000000180014c00     MSVCRT:dll_dllmain.obj
+ 0002:00007c08       $unwind$?dllmain_crt_process_detach@@YAH_N@Z 0000000180014c08     MSVCRT:dll_dllmain.obj
+ 0002:00007c40       $unwind$?dllmain_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z 0000000180014c40     MSVCRT:dll_dllmain.obj
+ 0002:00007c68       $unwind$?filt$0@?0??dllmain_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z@4HA 0000000180014c68     MSVCRT:dll_dllmain.obj
+ 0002:00007c70       $unwind$__report_gsfailure 0000000180014c70     MSVCRT:gs_report.obj
+ 0002:00007c78       $unwind$capture_previous_context 0000000180014c78     MSVCRT:gs_report.obj
+ 0002:00007c88       $xdatasym                  0000000180014c88     MSVCRT:svml_dpow2_sse2.obj
+ 0002:00007cd0       $xdatasym                  0000000180014cd0     MSVCRT:svml_dsin2_sse2.obj
+ 0002:00007cfc       $unwind$__security_init_cookie 0000000180014cfc     MSVCRT:gs_support.obj
+ 0002:00007d08       $unwind$__scrt_is_nonwritable_in_current_image 0000000180014d08     MSVCRT:utility.obj
+ 0002:00007d28       $unwind$__scrt_is_nonwritable_in_current_image$filt$0 0000000180014d28     MSVCRT:utility.obj
+ 0002:00007d30       $unwind$__scrt_initialize_onexit_tables 0000000180014d30     MSVCRT:utility.obj
+ 0002:00007d38       $unwind$__scrt_fastfail    0000000180014d38     MSVCRT:utility_desktop.obj
+ 0002:00007d48       $unwind$__isa_available_init 0000000180014d48     MSVCRT:cpu_disp.obj
+ 0002:00007d60       $xdatasym                  0000000180014d60     MSVCRT:guard_dispatch.obj
+ 0002:00007d70       .edata                     0000000180014d70     prism_sw.exp
+ 0002:00007d98       rgpv                       0000000180014d98     prism_sw.exp
+ 0002:00007de8       rgszName                   0000000180014de8     prism_sw.exp
+ 0002:00007e38       rgwOrd                     0000000180014e38     prism_sw.exp
+ 0002:00007e60       szName                     0000000180014e60     prism_sw.exp
+ 0002:00007e6d       $N00001                    0000000180014e6d     prism_sw.exp
+ 0002:00007e9c       $N00002                    0000000180014e9c     prism_sw.exp
+ 0002:00007ecf       $N00003                    0000000180014ecf     prism_sw.exp
+ 0002:00007efe       $N00004                    0000000180014efe     prism_sw.exp
+ 0002:00007f29       $N00005                    0000000180014f29     prism_sw.exp
+ 0002:00007f5a       $N00006                    0000000180014f5a     prism_sw.exp
+ 0002:00007f8b       $N00007                    0000000180014f8b     prism_sw.exp
+ 0002:00007fc7       $N00008                    0000000180014fc7     prism_sw.exp
+ 0002:00007ffc       $N00009                    0000000180014ffc     prism_sw.exp
+ 0002:00008034       $N00010                    0000000180015034     prism_sw.exp
+ 0002:00008064       $N00011                    0000000180015064     prism_sw.exp
+ 0002:00008092       $N00012                    0000000180015092     prism_sw.exp
+ 0002:000080c4       $N00013                    00000001800150c4     prism_sw.exp
+ 0002:000080f3       $N00014                    00000001800150f3     prism_sw.exp
+ 0002:00008123       $N00015                    0000000180015123     prism_sw.exp
+ 0002:0000815b       $N00016                    000000018001515b     prism_sw.exp
+ 0002:00008198       $N00017                    0000000180015198     prism_sw.exp
+ 0002:000081d1       $N00018                    00000001800151d1     prism_sw.exp
+ 0002:0000820a       $N00019                    000000018001520a     prism_sw.exp
+ 0002:0000823c       $N00020                    000000018001523c     prism_sw.exp
+ 0002:0000855e       .idata$6                   000000018001555e     kernel32:KERNEL32.dll
+ 0002:000085b8       .idata$6                   00000001800155b8     vcruntime:VCRUNTIME140.dll
+ 0002:0000868a       .idata$6                   000000018001568a     ucrt:api-ms-win-crt-heap-l1-1-0.dll
+ 0002:000086aa       .idata$6                   00000001800156aa     ucrt:api-ms-win-crt-math-l1-1-0.dll
+ 0002:000086ca       .idata$6                   00000001800156ca     ucrt:api-ms-win-crt-runtime-l1-1-0.dll
+ 0003:00000000       ?rendererFieldDesc@?1??initializeRendererFieldIds@@9@9 0000000180016000     JPiscesRenderer.obj
+ 0003:00000030       currentGamma               0000000180016030     PiscesBlit.obj
+ 0003:00000040       arcsinTable                0000000180016040     PiscesMath.obj
+ 0003:000006e0       fieldIds                   00000001800166e0     JAbstractSurface.obj
+ 0003:000006e8       fieldIdsInitialized        00000001800166e8     JAbstractSurface.obj
+ 0003:000006f0       fieldIds                   00000001800166f0     JJavaSurface.obj
+ 0003:00000700       fieldIdsInitialized        0000000180016700     JJavaSurface.obj
+ 0003:00000708       fieldIds                   0000000180016708     JPiscesRenderer.obj
+ 0003:00000718       fieldIdsInitialized        0000000180016718     JPiscesRenderer.obj
+ 0003:00000720       fieldIds                   0000000180016720     JTransform.obj
+ 0003:00000750       fieldIdsInitialized        0000000180016750     JTransform.obj
+ 0003:00000760       gammaArray                 0000000180016760     PiscesBlit.obj
+ 0003:00000b60       invGammaArray              0000000180016b60     PiscesBlit.obj
+ 0003:00000f60       sintab                     0000000180016f60     PiscesMath.obj
+ 0003:00000f68       mem_Error_Flag             0000000180016f68     PiscesSysutils.obj
+ 0003:00000f6c       ?__proc_attached@@3HA      0000000180016f6c     MSVCRT:dll_dllmain.obj
+ 0003:00000f70       GS_ExceptionRecord         0000000180016f70     MSVCRT:gs_report.obj
+ 0003:00001010       GS_ContextRecord           0000000180017010     MSVCRT:gs_report.obj
+ 0003:00001510       ?is_initialized_as_dll@@3_NA 0000000180017510     MSVCRT:utility.obj
+ 0003:00001511       ?module_local_atexit_table_initialized@@3_NA 0000000180017511     MSVCRT:utility.obj
+ 0003:00001518       ?module_local_atexit_table@@3U_onexit_table_t@@A 0000000180017518     MSVCRT:utility.obj
+ 0003:00001530       ?module_local_at_quick_exit_table@@3U_onexit_table_t@@A 0000000180017530     MSVCRT:utility.obj
+ 0004:00000000       $pdata$Java_com_sun_pisces_AbstractSurface_getRGBImpl 0000000180018000     JAbstractSurface.obj
+ 0004:0000000c       $pdata$Java_com_sun_pisces_AbstractSurface_nativeFinalize 000000018001800c     JAbstractSurface.obj
+ 0004:00000018       $pdata$0$Java_com_sun_pisces_AbstractSurface_nativeFinalize 0000000180018018     JAbstractSurface.obj
+ 0004:00000024       $pdata$1$Java_com_sun_pisces_AbstractSurface_nativeFinalize 0000000180018024     JAbstractSurface.obj
+ 0004:00000030       $pdata$Java_com_sun_pisces_AbstractSurface_setRGBImpl 0000000180018030     JAbstractSurface.obj
+ 0004:0000003c       $pdata$surface_initialize  000000018001803c     JAbstractSurface.obj
+ 0004:00000048       $pdata$Java_com_sun_pisces_JavaSurface_initialize 0000000180018048     JJavaSurface.obj
+ 0004:00000054       $pdata$surface_acquire     0000000180018054     JJavaSurface.obj
+ 0004:00000060       $pdata$surface_release     0000000180018060     JJavaSurface.obj
+ 0004:0000006c       $pdata$JNI_ThrowNew        000000018001806c     JNIUtil.obj
+ 0004:00000078       $pdata$initializeFieldIds  0000000180018078     JNIUtil.obj
+ 0004:00000084       $pdata$Java_com_sun_pisces_PiscesRenderer_clearRectImpl 0000000180018084     JPiscesRenderer.obj
+ 0004:00000090       $pdata$Java_com_sun_pisces_PiscesRenderer_drawImageImpl 0000000180018090     JPiscesRenderer.obj
+ 0004:0000009c       $pdata$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 000000018001809c     JPiscesRenderer.obj
+ 0004:000000a8       $pdata$4$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800180a8     JPiscesRenderer.obj
+ 0004:000000b4       $pdata$5$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800180b4     JPiscesRenderer.obj
+ 0004:000000c0       $pdata$6$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800180c0     JPiscesRenderer.obj
+ 0004:000000cc       $pdata$7$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800180cc     JPiscesRenderer.obj
+ 0004:000000d8       $pdata$8$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800180d8     JPiscesRenderer.obj
+ 0004:000000e4       $pdata$9$Java_com_sun_pisces_PiscesRenderer_emitAndClearAlphaRowImpl 00000001800180e4     JPiscesRenderer.obj
+ 0004:000000f0       $pdata$Java_com_sun_pisces_PiscesRenderer_fillAlphaMaskImpl 00000001800180f0     JPiscesRenderer.obj
+ 0004:000000fc       $pdata$Java_com_sun_pisces_PiscesRenderer_fillLCDAlphaMaskImpl 00000001800180fc     JPiscesRenderer.obj
+ 0004:00000108       $pdata$Java_com_sun_pisces_PiscesRenderer_fillRectImpl 0000000180018108     JPiscesRenderer.obj
+ 0004:00000114       $pdata$Java_com_sun_pisces_PiscesRenderer_initialize 0000000180018114     JPiscesRenderer.obj
+ 0004:00000120       $pdata$0$Java_com_sun_pisces_PiscesRenderer_initialize 0000000180018120     JPiscesRenderer.obj
+ 0004:0000012c       $pdata$1$Java_com_sun_pisces_PiscesRenderer_initialize 000000018001812c     JPiscesRenderer.obj
+ 0004:00000138       $pdata$2$Java_com_sun_pisces_PiscesRenderer_initialize 0000000180018138     JPiscesRenderer.obj
+ 0004:00000144       $pdata$3$Java_com_sun_pisces_PiscesRenderer_initialize 0000000180018144     JPiscesRenderer.obj
+ 0004:00000150       $pdata$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 0000000180018150     JPiscesRenderer.obj
+ 0004:0000015c       $pdata$0$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 000000018001815c     JPiscesRenderer.obj
+ 0004:00000168       $pdata$1$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 0000000180018168     JPiscesRenderer.obj
+ 0004:00000174       $pdata$2$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 0000000180018174     JPiscesRenderer.obj
+ 0004:00000180       $pdata$3$Java_com_sun_pisces_PiscesRenderer_nativeFinalize 0000000180018180     JPiscesRenderer.obj
+ 0004:0000018c       $pdata$Java_com_sun_pisces_PiscesRenderer_setClipImpl 000000018001818c     JPiscesRenderer.obj
+ 0004:00000198       $pdata$Java_com_sun_pisces_PiscesRenderer_setColorImpl 0000000180018198     JPiscesRenderer.obj
+ 0004:000001a4       $pdata$Java_com_sun_pisces_PiscesRenderer_setCompositeRuleImpl 00000001800181a4     JPiscesRenderer.obj
+ 0004:000001b0       $pdata$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 00000001800181b0     JPiscesRenderer.obj
+ 0004:000001bc       $pdata$5$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 00000001800181bc     JPiscesRenderer.obj
+ 0004:000001c8       $pdata$8$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 00000001800181c8     JPiscesRenderer.obj
+ 0004:000001d4       $pdata$9$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 00000001800181d4     JPiscesRenderer.obj
+ 0004:000001e0       $pdata$10$Java_com_sun_pisces_PiscesRenderer_setLinearGradientImpl 00000001800181e0     JPiscesRenderer.obj
+ 0004:000001ec       $pdata$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 00000001800181ec     JPiscesRenderer.obj
+ 0004:000001f8       $pdata$5$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 00000001800181f8     JPiscesRenderer.obj
+ 0004:00000204       $pdata$10$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 0000000180018204     JPiscesRenderer.obj
+ 0004:00000210       $pdata$11$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 0000000180018210     JPiscesRenderer.obj
+ 0004:0000021c       $pdata$12$Java_com_sun_pisces_PiscesRenderer_setRadialGradientImpl 000000018001821c     JPiscesRenderer.obj
+ 0004:00000228       $pdata$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 0000000180018228     JPiscesRenderer.obj
+ 0004:00000234       $pdata$5$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 0000000180018234     JPiscesRenderer.obj
+ 0004:00000240       $pdata$6$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 0000000180018240     JPiscesRenderer.obj
+ 0004:0000024c       $pdata$7$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 000000018001824c     JPiscesRenderer.obj
+ 0004:00000258       $pdata$8$Java_com_sun_pisces_PiscesRenderer_setTextureImpl 0000000180018258     JPiscesRenderer.obj
+ 0004:00000264       $pdata$fillAlphaMask       0000000180018264     JPiscesRenderer.obj
+ 0004:00000270       $pdata$0$fillAlphaMask     0000000180018270     JPiscesRenderer.obj
+ 0004:0000027c       $pdata$3$fillAlphaMask     000000018001827c     JPiscesRenderer.obj
+ 0004:00000288       $pdata$4$fillAlphaMask     0000000180018288     JPiscesRenderer.obj
+ 0004:00000294       $pdata$5$fillAlphaMask     0000000180018294     JPiscesRenderer.obj
+ 0004:000002a0       $pdata$6$fillAlphaMask     00000001800182a0     JPiscesRenderer.obj
+ 0004:000002ac       $pdata$fillRect            00000001800182ac     JPiscesRenderer.obj
+ 0004:000002b8       $pdata$renderer_clearRect  00000001800182b8     JPiscesRenderer.obj
+ 0004:000002c4       $pdata$renderer_setTexture 00000001800182c4     JPiscesRenderer.obj
+ 0004:000002d0       $pdata$setPaintMode        00000001800182d0     JPiscesRenderer.obj
+ 0004:000002dc       $pdata$updateCompositeDependedRoutines 00000001800182dc     JPiscesRenderer.obj
+ 0004:000002e8       $pdata$updateMaskDependedRoutines 00000001800182e8     JPiscesRenderer.obj
+ 0004:000002f4       $pdata$updateRendererSurface 00000001800182f4     JPiscesRenderer.obj
+ 0004:00000300       $pdata$Java_com_sun_pisces_Transform6_initialize 0000000180018300     JTransform.obj
+ 0004:0000030c       $pdata$transform_get6      000000018001830c     JTransform.obj
+ 0004:00000318       $pdata$blitPTSrc8888_pre   0000000180018318     PiscesBlit.obj
+ 0004:00000324       $pdata$2$blitPTSrc8888_pre 0000000180018324     PiscesBlit.obj
+ 0004:00000330       $pdata$3$blitPTSrc8888_pre 0000000180018330     PiscesBlit.obj
+ 0004:0000033c       $pdata$blitPTSrcMask8888_pre 000000018001833c     PiscesBlit.obj
+ 0004:00000348       $pdata$3$blitPTSrcMask8888_pre 0000000180018348     PiscesBlit.obj
+ 0004:00000354       $pdata$4$blitPTSrcMask8888_pre 0000000180018354     PiscesBlit.obj
+ 0004:00000360       $pdata$blitPTSrcOver8888_pre 0000000180018360     PiscesBlit.obj
+ 0004:0000036c       $pdata$3$blitPTSrcOver8888_pre 000000018001836c     PiscesBlit.obj
+ 0004:00000378       $pdata$4$blitPTSrcOver8888_pre 0000000180018378     PiscesBlit.obj
+ 0004:00000384       $pdata$blitPTSrcOverMask8888_pre 0000000180018384     PiscesBlit.obj
+ 0004:00000390       $pdata$2$blitPTSrcOverMask8888_pre 0000000180018390     PiscesBlit.obj
+ 0004:0000039c       $pdata$3$blitPTSrcOverMask8888_pre 000000018001839c     PiscesBlit.obj
+ 0004:000003a8       $pdata$blitSrc8888_pre     00000001800183a8     PiscesBlit.obj
+ 0004:000003b4       $pdata$1$blitSrc8888_pre   00000001800183b4     PiscesBlit.obj
+ 0004:000003c0       $pdata$2$blitSrc8888_pre   00000001800183c0     PiscesBlit.obj
+ 0004:000003cc       $pdata$blitSrcMask8888_pre 00000001800183cc     PiscesBlit.obj
+ 0004:000003d8       $pdata$1$blitSrcMask8888_pre 00000001800183d8     PiscesBlit.obj
+ 0004:000003e4       $pdata$2$blitSrcMask8888_pre 00000001800183e4     PiscesBlit.obj
+ 0004:000003f0       $pdata$blitSrcOver8888_pre 00000001800183f0     PiscesBlit.obj
+ 0004:000003fc       $pdata$1$blitSrcOver8888_pre 00000001800183fc     PiscesBlit.obj
+ 0004:00000408       $pdata$2$blitSrcOver8888_pre 0000000180018408     PiscesBlit.obj
+ 0004:00000414       $pdata$blitSrcOverLCDMask8888_pre 0000000180018414     PiscesBlit.obj
+ 0004:00000420       $pdata$1$blitSrcOverLCDMask8888_pre 0000000180018420     PiscesBlit.obj
+ 0004:0000042c       $pdata$2$blitSrcOverLCDMask8888_pre 000000018001842c     PiscesBlit.obj
+ 0004:00000438       $pdata$blitSrcOverMask8888_pre 0000000180018438     PiscesBlit.obj
+ 0004:00000444       $pdata$0$blitSrcOverMask8888_pre 0000000180018444     PiscesBlit.obj
+ 0004:00000450       $pdata$1$blitSrcOverMask8888_pre 0000000180018450     PiscesBlit.obj
+ 0004:0000045c       $pdata$clearRect8888_any   000000018001845c     PiscesBlit.obj
+ 0004:00000468       $pdata$0$clearRect8888_any 0000000180018468     PiscesBlit.obj
+ 0004:00000474       $pdata$1$clearRect8888_any 0000000180018474     PiscesBlit.obj
+ 0004:00000480       $pdata$emitLinePTSource8888_pre 0000000180018480     PiscesBlit.obj
+ 0004:0000048c       $pdata$0$emitLinePTSource8888_pre 000000018001848c     PiscesBlit.obj
+ 0004:00000498       $pdata$1$emitLinePTSource8888_pre 0000000180018498     PiscesBlit.obj
+ 0004:000004a4       $pdata$emitLinePTSourceOver8888_pre 00000001800184a4     PiscesBlit.obj
+ 0004:000004b0       $pdata$0$emitLinePTSourceOver8888_pre 00000001800184b0     PiscesBlit.obj
+ 0004:000004bc       $pdata$1$emitLinePTSourceOver8888_pre 00000001800184bc     PiscesBlit.obj
+ 0004:000004c8       $pdata$emitLineSource8888_pre 00000001800184c8     PiscesBlit.obj
+ 0004:000004d4       $pdata$emitLineSourceOver8888_pre 00000001800184d4     PiscesBlit.obj
+ 0004:000004e0       $pdata$initGammaArrays     00000001800184e0     PiscesBlit.obj
+ 0004:000004ec       $pdata$7$initGammaArrays   00000001800184ec     PiscesBlit.obj
+ 0004:000004f8       $pdata$8$initGammaArrays   00000001800184f8     PiscesBlit.obj
+ 0004:00000504       $pdata$genLinearGradientPaint 0000000180018504     PiscesPaint.obj
+ 0004:00000510       $pdata$2$genLinearGradientPaint 0000000180018510     PiscesPaint.obj
+ 0004:0000051c       $pdata$3$genLinearGradientPaint 000000018001851c     PiscesPaint.obj
+ 0004:00000528       $pdata$genRadialGradientPaint 0000000180018528     PiscesPaint.obj
+ 0004:00000534       $pdata$5$genRadialGradientPaint 0000000180018534     PiscesPaint.obj
+ 0004:00000540       $pdata$6$genRadialGradientPaint 0000000180018540     PiscesPaint.obj
+ 0004:0000054c       $pdata$genTexturePaintMultiply 000000018001854c     PiscesPaint.obj
+ 0004:00000558       $pdata$genTexturePaintTarget 0000000180018558     PiscesPaint.obj
+ 0004:00000564       $pdata$0$genTexturePaintTarget 0000000180018564     PiscesPaint.obj
+ 0004:00000570       $pdata$1$genTexturePaintTarget 0000000180018570     PiscesPaint.obj
+ 0004:0000057c       $pdata$interpolate2points  000000018001857c     PiscesPaint.obj
+ 0004:00000588       $pdata$interpolate2pointsNoAlpha 0000000180018588     PiscesPaint.obj
+ 0004:00000594       $pdata$interpolate4points  0000000180018594     PiscesPaint.obj
+ 0004:000005a0       $pdata$interpolate4pointsNoAlpha 00000001800185a0     PiscesPaint.obj
+ 0004:000005ac       $pdata$pisces_transform_invert 00000001800185ac     PiscesTransform.obj
+ 0004:000005b8       $pdata$__GSHandlerCheck    00000001800185b8     MSVCRT:gshandler.obj
+ 0004:000005c4       $pdata$__GSHandlerCheckCommon 00000001800185c4     MSVCRT:gshandler.obj
+ 0004:000005dc       $pdata$?dllmain_crt_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z 00000001800185dc     MSVCRT:dll_dllmain.obj
+ 0004:000005e8       $pdata$?dllmain_crt_process_attach@@YAHQEAUHINSTANCE__@@QEAX@Z 00000001800185e8     MSVCRT:dll_dllmain.obj
+ 0004:000005f4       $pdata$?dllmain_crt_process_detach@@YAH_N@Z 00000001800185f4     MSVCRT:dll_dllmain.obj
+ 0004:00000600       $pdata$?dllmain_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z 0000000180018600     MSVCRT:dll_dllmain.obj
+ 0004:0000060c       $pdata$_DllMainCRTStartup  000000018001860c     MSVCRT:dll_dllmain.obj
+ 0004:00000618       $pdata$__raise_securityfailure 0000000180018618     MSVCRT:gs_report.obj
+ 0004:00000624       $pdata$__report_gsfailure  0000000180018624     MSVCRT:gs_report.obj
+ 0004:00000630       $pdata$capture_previous_context 0000000180018630     MSVCRT:gs_report.obj
+ 0004:0000066c       $pdata$__security_init_cookie 000000018001866c     MSVCRT:gs_support.obj
+ 0004:00000678       $pdata$DllMain             0000000180018678     MSVCRT:dll_dllmain_stub.obj
+ 0004:00000684       $pdata$__scrt_initialize_default_local_stdio_options 0000000180018684     MSVCRT:default_local_stdio_options.obj
+ 0004:00000690       $pdata$__scrt_acquire_startup_lock 0000000180018690     MSVCRT:utility.obj
+ 0004:0000069c       $pdata$__scrt_dllmain_after_initialize_c 000000018001869c     MSVCRT:utility.obj
+ 0004:000006a8       $pdata$__scrt_dllmain_before_initialize_c 00000001800186a8     MSVCRT:utility.obj
+ 0004:000006b4       $pdata$__scrt_dllmain_crt_thread_attach 00000001800186b4     MSVCRT:utility.obj
+ 0004:000006c0       $pdata$__scrt_dllmain_crt_thread_detach 00000001800186c0     MSVCRT:utility.obj
+ 0004:000006cc       $pdata$__scrt_dllmain_exception_filter 00000001800186cc     MSVCRT:utility.obj
+ 0004:000006d8       $pdata$__scrt_dllmain_uninitialize_c 00000001800186d8     MSVCRT:utility.obj
+ 0004:000006e4       $pdata$__scrt_dllmain_uninitialize_critical 00000001800186e4     MSVCRT:utility.obj
+ 0004:000006f0       $pdata$__scrt_initialize_crt 00000001800186f0     MSVCRT:utility.obj
+ 0004:000006fc       $pdata$__scrt_initialize_onexit_tables 00000001800186fc     MSVCRT:utility.obj
+ 0004:00000708       $pdata$__scrt_is_nonwritable_in_current_image 0000000180018708     MSVCRT:utility.obj
+ 0004:00000714       $pdata$__scrt_release_startup_lock 0000000180018714     MSVCRT:utility.obj
+ 0004:00000720       $pdata$__scrt_uninitialize_crt 0000000180018720     MSVCRT:utility.obj
+ 0004:0000072c       $pdata$__scrt_fastfail     000000018001872c     MSVCRT:utility_desktop.obj
+ 0004:00000738       $pdata$_RTC_Initialize     0000000180018738     MSVCRT:initsect.obj
+ 0004:00000744       $pdata$_RTC_Terminate      0000000180018744     MSVCRT:initsect.obj
+ 0004:00000750       $pdata$__isa_available_init 0000000180018750     MSVCRT:cpu_disp.obj
+ 0004:00000768       $pdata$?fin$0@?0??dllmain_crt_process_attach@@YAHQEAUHINSTANCE__@@QEAX@Z@4HA 0000000180018768     MSVCRT:dll_dllmain.obj
+ 0004:00000774       $pdata$?fin$0@?0??dllmain_crt_process_detach@@YAH_N@Z@4HA 0000000180018774     MSVCRT:dll_dllmain.obj
+ 0004:00000780       $pdata$?filt$0@?0??dllmain_dispatch@@YAHQEAUHINSTANCE__@@KQEAX@Z@4HA 0000000180018780     MSVCRT:dll_dllmain.obj
+ 0004:0000078c       $pdata$__scrt_is_nonwritable_in_current_image$filt$0 000000018001878c     MSVCRT:utility.obj
+ 0005:00000000       INF_c_2044_0_4             0000000180019000     MSVCRT:svml_dpow2_sse2.obj
+ 0005:00000010       QNaN_c_2044_0_4            0000000180019010     MSVCRT:svml_dpow2_sse2.obj
+ 0005:00000100       __spec_table               0000000180019100     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000a90       MMDA1                      0000000180019a90     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000aa0       MMDA2                      0000000180019aa0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000ab0       MMDA3                      0000000180019ab0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000ac0       MMDA4                      0000000180019ac0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000ad0       MMDA5                      0000000180019ad0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000ae0       MMDA6                      0000000180019ae0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000af0       MMDA7                      0000000180019af0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b00       MMDA8                      0000000180019b00     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b10       MMDPI4                     0000000180019b10     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b20       MMDHUGE                    0000000180019b20     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b30       MMDRSHIFT                  0000000180019b30     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b40       MMDPI3                     0000000180019b40     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b50       MMDPI2                     0000000180019b50     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b60       MMIABSMASK                 0000000180019b60     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b70       MMDINVPI                   0000000180019b70     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b80       MMDPI1                     0000000180019b80     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000b90       MMISIGNMASK                0000000180019b90     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000ba0       PI02C_4                    0000000180019ba0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000bb0       PI02C_3                    0000000180019bb0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000bc0       PI02C_2                    0000000180019bc0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000bd0       PI02C_1                    0000000180019bd0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000be0       PI02C_0                    0000000180019be0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000bf0       RS                         0000000180019bf0     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000c00       MSK_LOW_BIT                0000000180019c00     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000c10       MMI_ONE                    0000000180019c10     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000c20       THE_PI02_INV               0000000180019c20     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000c30       TWO_POW_30                 0000000180019c30     MSVCRT:svml_dsin2_sse2.obj
+ 0005:00000c40       flAllOnes                  0000000180019c40     MSVCRT:svml_dsin2_sse2.obj
+ 0006:00000060       $R000000                   000000018001a060     version.res

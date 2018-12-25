@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.ReadOnlyBooleanWrapperTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.012">
+  <properties/>
+  <testcase name="testUnbind" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testBindToNull" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.001"/>
+  <testcase name="testLazySetValue" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testToString" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testRebind" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testLazySet" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testLazyBind_generic" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testSetBoundValue" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testLazyBind_primitive" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testConstructor_Bean_Name_InitialValue" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.001"/>
+  <testcase name="testInternalEagerBind_generic" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testInternalEagerSetValue" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testConstructor_InitialValue" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testInternalEagerSet" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.001"/>
+  <testcase name="testPublicEagerSetValue" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testPublicEagerSet" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.001"/>
+  <testcase name="testPublicEagerBind_generic" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.001"/>
+  <testcase name="testConstructor_Bean_Name" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testConstructor_NoArguments" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testPublicEagerBind_primitive" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.001"/>
+  <testcase name="testNoReadOnlyPropertyCreated" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testRemoveListeners" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.001"/>
+  <testcase name="testInternalEagerBind_primitive" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <testcase name="testAddingListenerWillAlwaysReceiveInvalidationEvent" classname="javafx.beans.property.ReadOnlyBooleanWrapperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

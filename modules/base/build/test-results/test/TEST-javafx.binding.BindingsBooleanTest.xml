@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.BindingsBooleanTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.056">
+  <properties/>
+  <testcase name="testOr_Efficiency" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testAnd_Efficiency" classname="javafx.binding.BindingsBooleanTest" time="0.001"/>
+  <testcase name="testEqual_Efficiency" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testAnd_WeakReference" classname="javafx.binding.BindingsBooleanTest" time="0.032"/>
+  <testcase name="testNot_Efficiency" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testOr_WeakReference" classname="javafx.binding.BindingsBooleanTest" time="0.021"/>
+  <testcase name="testOr" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testEqual_Self" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testAnd" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testEqual_null_x" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testAnd_Self" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testAnd_x_null" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testOr_Self" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testEqual_x_null" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testNotEqual" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testNot" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testAnd_null_x" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testOr_null_x" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testOr_x_null" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testNot_null" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <testcase name="testEqual" classname="javafx.binding.BindingsBooleanTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

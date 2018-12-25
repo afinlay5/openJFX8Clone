@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.binding.expression.StringExpressionTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:14" hostname="DESKTOP-CFPL3NK" time="0.004">
+  <properties/>
+  <testcase name="testConcat" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testEquals" classname="javafx.binding.expression.StringExpressionTest" time="0.001"/>
+  <testcase name="testIsNotEmpty" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testIsEmpty" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testLength" classname="javafx.binding.expression.StringExpressionTest" time="0.001"/>
+  <testcase name="testGetValueSafe" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testIsNull" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testIsNotNull" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testLesser" classname="javafx.binding.expression.StringExpressionTest" time="0.001"/>
+  <testcase name="testFactory_Null" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testGreater" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testNotEquals" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testFactory" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testLesserOrEqual" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testGreaterOrEqual" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <testcase name="testEqualsIgnoringCase" classname="javafx.binding.expression.StringExpressionTest" time="0.001"/>
+  <testcase name="testNotEqualsIgnoringCase" classname="javafx.binding.expression.StringExpressionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

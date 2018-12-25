@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.beans.property.SimpleListPropertyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:13" hostname="DESKTOP-CFPL3NK" time="0.0">
+  <properties/>
+  <testcase name="testConstructor_Bean_Name_InitialValue" classname="javafx.beans.property.SimpleListPropertyTest" time="0.0"/>
+  <testcase name="testConstructor_InitialValue" classname="javafx.beans.property.SimpleListPropertyTest" time="0.0"/>
+  <testcase name="testConstructor_Bean_Name" classname="javafx.beans.property.SimpleListPropertyTest" time="0.0"/>
+  <testcase name="testConstructor_NoArguments" classname="javafx.beans.property.SimpleListPropertyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

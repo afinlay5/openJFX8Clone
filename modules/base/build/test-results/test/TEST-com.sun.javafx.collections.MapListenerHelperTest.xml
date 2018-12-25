@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.collections.MapListenerHelperTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:12" hostname="DESKTOP-CFPL3NK" time="0.029">
+  <properties/>
+  <testcase name="testRemoveInvalidationListener_Null" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testGeneric_RemoveInvalidationInPulse" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.002"/>
+  <testcase name="testGeneric_AddInvalidationInPulse" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testExceptionNotPropagatedFromMultipleChange" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testExceptionNotPropagatedFromSingleChange" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testExceptionNotPropagatedFromSingleInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testInvalidation_Simple" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.002"/>
+  <testcase name="testInvalidation_AddInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testInvalidation_AddChange" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testRemoveMapChangeListener_Null" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testAddMapChangeListener_Null" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testInvalidation_ChangeInPulse" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testGeneric_RemoveChange" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testGeneric_RemoveChangeInPulse" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testGeneric_AddChangeInPulse" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testChange_Simple" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testChange_AddInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testChange_AddChange" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testChange_ChangeInPulse" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testGeneric_AddChange" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testGeneric_AddInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testGeneric_RemoveInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testAddInvalidationListener_Null" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testExceptionHandledByThreadUncaughtHandlerInMultipleChange" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testExceptionHandledByThreadUncaughtHandlerInSingleChange" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testExceptionNotPropagatedFromMultipleInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testExceptionHandledByThreadUncaughtHandlerInSingleInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testExceptionNotPropagatedFromMultipleChangeAndInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testEmpty" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.0"/>
+  <testcase name="testExceptionHandledByThreadUncaughtHandlerInMultipleChangeAndInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <testcase name="testExceptionHandledByThreadUncaughtHandlerInMultipleInvalidation" classname="com.sun.javafx.collections.MapListenerHelperTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

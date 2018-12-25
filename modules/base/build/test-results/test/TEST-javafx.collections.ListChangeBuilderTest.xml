@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.ListChangeBuilderTest" tests="33" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.005">
+  <properties/>
+  <testcase name="testToString_Composed" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testUpdateAndPermutation" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testToString_Permutation" classname="javafx.collections.ListChangeBuilderTest" time="0.001"/>
+  <testcase name="testToString_Update" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testNextSetWithoutBegin" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testUpdateAndAddRemove" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testUpdateAndAddRemove_2" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testNextRemoveWithoutBegin" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testPermutationAndAddRemove" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testNextRemove2WithoutBegin" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testAddAndPermutation" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testToString_Remove" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testNextReplaceWithoutBegin" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testNextUpdateWithoutBegin" classname="javafx.collections.ListChangeBuilderTest" time="0.001"/>
+  <testcase name="testAddRemoveAndPermutation" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testUpdateAndPermutation_2" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testUpdateAndAddRemove_3" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testNextAddWithoutBegin" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testRemoveAndPermutation" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testPermutationAddRemoveAndPermutation" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testUpdate" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testPermutation" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testAddRemove" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testEmpty" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testRemove" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testToString_Add" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testAddRemove_5" classname="javafx.collections.ListChangeBuilderTest" time="0.001"/>
+  <testcase name="testAdd" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testAddRemove_4" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testRemove_2" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testUpdate_2" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testAddRemove_3" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <testcase name="testAddRemove_2" classname="javafx.collections.ListChangeBuilderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

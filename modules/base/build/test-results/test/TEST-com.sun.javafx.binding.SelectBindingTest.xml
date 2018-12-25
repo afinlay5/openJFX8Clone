@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.binding.SelectBindingTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:12" hostname="DESKTOP-CFPL3NK" time="0.091">
+  <properties/>
+  <testcase name="testNullIsReturnedFromAChainWithAPropertyThatIsNotOnTheAvailableObject" classname="com.sun.javafx.binding.SelectBindingTest" time="0.008"/>
+  <testcase name="testWhenAValidChangeIsBrokenBySettingTheRootToNullThenTheValueIsNull" classname="com.sun.javafx.binding.SelectBindingTest" time="0.005"/>
+  <testcase name="testWhenAValidChangeIsBrokenBySettingTheLastLinkToNullThenTheValueIsNull" classname="com.sun.javafx.binding.SelectBindingTest" time="0.0"/>
+  <testcase name="testWhenAnIncompleteChainIsMadeCompleteAtTheEndThatTheValueIsComputedCorrectly" classname="com.sun.javafx.binding.SelectBindingTest" time="0.0"/>
+  <testcase name="testWhenAValidChangeIsBrokenBySettingTheMiddleToNullThenTheValueIsNull" classname="com.sun.javafx.binding.SelectBindingTest" time="0.002"/>
+  <testcase name="testWhenAnIncompleteChainIsMadeCompleteThatTheValueIsComputedCorrectly" classname="com.sun.javafx.binding.SelectBindingTest" time="0.003"/>
+  <testcase name="testPOJOObject" classname="com.sun.javafx.binding.SelectBindingTest" time="0.006"/>
+  <testcase name="testPOJOObject_2" classname="com.sun.javafx.binding.SelectBindingTest" time="0.002"/>
+  <testcase name="testPOJODouble" classname="com.sun.javafx.binding.SelectBindingTest" time="0.0"/>
+  <testcase name="testPOJOFloat" classname="com.sun.javafx.binding.SelectBindingTest" time="0.0"/>
+  <testcase name="testFloat" classname="com.sun.javafx.binding.SelectBindingTest" time="0.002"/>
+  <testcase name="testObject" classname="com.sun.javafx.binding.SelectBindingTest" time="0.0"/>
+  <testcase name="testDouble" classname="com.sun.javafx.binding.SelectBindingTest" time="0.001"/>
+  <testcase name="testPOJOInteger" classname="com.sun.javafx.binding.SelectBindingTest" time="0.001"/>
+  <testcase name="testPOJOObject_3" classname="com.sun.javafx.binding.SelectBindingTest" time="0.002"/>
+  <testcase name="testPOJOBoolean" classname="com.sun.javafx.binding.SelectBindingTest" time="0.001"/>
+  <testcase name="testInteger" classname="com.sun.javafx.binding.SelectBindingTest" time="0.001"/>
+  <testcase name="testPOJOLong" classname="com.sun.javafx.binding.SelectBindingTest" time="0.001"/>
+  <testcase name="testBoolean" classname="com.sun.javafx.binding.SelectBindingTest" time="0.004"/>
+  <testcase name="testLong" classname="com.sun.javafx.binding.SelectBindingTest" time="0.002"/>
+  <testcase name="testSettingTheRootValueToNullInAChainShouldUnhookAllListeners" classname="com.sun.javafx.binding.SelectBindingTest" time="0.001"/>
+  <testcase name="stressTestRandomOperationsResultInCorrectListenersInstalled" classname="com.sun.javafx.binding.SelectBindingTest" time="0.039"/>
+  <testcase name="createWithNoSteps" classname="com.sun.javafx.binding.SelectBindingTest" time="0.001"/>
+  <testcase name="createWithOneStepIsNull" classname="com.sun.javafx.binding.SelectBindingTest" time="0.0"/>
+  <testcase name="testAllMembersHaveListeners" classname="com.sun.javafx.binding.SelectBindingTest" time="0.001"/>
+  <testcase name="createWithRootNull" classname="com.sun.javafx.binding.SelectBindingTest" time="0.0"/>
+  <testcase name="testWhenAnIncompleteChainIsMadeCompleteInTheMiddleThatTheValueIsComputedCorrectly" classname="com.sun.javafx.binding.SelectBindingTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [dummy, name]
+java.lang.NoSuchMethodException: javafx.binding.Variable.getDummy()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at com.sun.javafx.property.adapter.ReadOnlyJavaBeanPropertyBuilderHelper.getDescriptor(ReadOnlyJavaBeanPropertyBuilderHelper.java:107)
+	at javafx.beans.property.adapter.ReadOnlyJavaBeanObjectPropertyBuilder.build(ReadOnlyJavaBeanObjectPropertyBuilder.java:82)
+	at com.sun.javafx.property.adapter.JavaBeanQuickAccessor.createReadOnlyJavaBeanObjectProperty(JavaBeanQuickAccessor.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.sun.javafx.property.JavaBeanAccessHelper.createReadOnlyJavaBeanProperty(JavaBeanAccessHelper.java:47)
+	at com.sun.javafx.binding.SelectBinding$SelectBindingHelper.getObservableValue(SelectBinding.java:487)
+	at com.sun.javafx.binding.SelectBinding$AsString.computeValue(SelectBinding.java:394)
+	at javafx.beans.binding.StringBinding.get(StringBinding.java:152)
+	at com.sun.javafx.binding.SelectBindingTest.testNullIsReturnedFromAChainWithAPropertyThatIsNotOnTheAvailableObject(SelectBindingTest.java:416)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:106)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)
+	at org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:66)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy1.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:155)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:137)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:404)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, name]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, name]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, name]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, miles]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, data]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, next]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, something]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, data]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, next, name]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, age]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, data]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, retired]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, data]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, income]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, data]
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$AsString computeValue
+WARNING: Exception while evaluating select-binding
+java.lang.NullPointerException
+
+Dec 24, 2018 2:03:12 PM com.sun.javafx.binding.SelectBinding$SelectBindingHelper getObservableValue
+WARNING: Exception while evaluating select-binding [next, name]
+]]></system-err>
+</testsuite>

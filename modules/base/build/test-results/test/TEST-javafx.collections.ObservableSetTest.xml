@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.ObservableSetTest" tests="60" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.008">
+  <properties/>
+  <testcase name="testAddRemove[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testClear[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRetainAll[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddAll[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testNull[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testOther[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRemoveAll[0]" classname="javafx.collections.ObservableSetTest" time="0.001"/>
+  <testcase name="testEqualsAndHashCode[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testIterator[0]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddRemove[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testClear[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRetainAll[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddAll[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testNull[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testOther[1]" classname="javafx.collections.ObservableSetTest" time="0.001"/>
+  <testcase name="testRemoveAll[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testIterator[1]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddRemove[2]" classname="javafx.collections.ObservableSetTest" time="0.001"/>
+  <testcase name="testClear[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRetainAll[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddAll[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testNull[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testOther[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRemoveAll[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testIterator[2]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddRemove[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testClear[3]" classname="javafx.collections.ObservableSetTest" time="0.001"/>
+  <testcase name="testRetainAll[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddAll[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testNull[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testOther[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRemoveAll[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testIterator[3]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddRemove[4]" classname="javafx.collections.ObservableSetTest" time="0.001"/>
+  <testcase name="testClear[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRetainAll[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddAll[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testNull[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testOther[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRemoveAll[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testIterator[4]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddRemove[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testClear[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRetainAll[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testAddAll[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testNull[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testOther[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testRemoveAll[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testObserverCanRemoveObservers[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <testcase name="testIterator[5]" classname="javafx.collections.ObservableSetTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.ObservableListEmptyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.008">
+  <properties/>
+  <testcase name="testClearEmpty[0]" classname="javafx.collections.ObservableListEmptyTest" time="0.001"/>
+  <testcase name="testClearEmpty[1]" classname="javafx.collections.ObservableListEmptyTest" time="0.0"/>
+  <testcase name="testClearEmpty[2]" classname="javafx.collections.ObservableListEmptyTest" time="0.003"/>
+  <testcase name="testClearEmpty[3]" classname="javafx.collections.ObservableListEmptyTest" time="0.001"/>
+  <testcase name="testClearEmpty[4]" classname="javafx.collections.ObservableListEmptyTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javafx.collections.SortedListTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:15" hostname="DESKTOP-CFPL3NK" time="0.028">
+  <properties/>
+  <testcase name="testMutableElementUnsorted_rt39541" classname="javafx.collections.SortedListTest" time="0.001"/>
+  <testcase name="testMutableElementSortedFilteredChain" classname="javafx.collections.SortedListTest" time="0.001"/>
+  <testcase name="testMutableElementUnsortedChain_rt39541" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testRemove" classname="javafx.collections.SortedListTest" time="0.001"/>
+  <testcase name="testAdd" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="test_rt36353_sortedList" classname="javafx.collections.SortedListTest" time="0.001"/>
+  <testcase name="testMultipleOperations" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testSortedNaturalOrder" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testRemoveFromDuplicates" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testNotComparable" classname="javafx.collections.SortedListTest" time="0.02"/>
+  <testcase name="testChangeComparator" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testAddAllOnEmpty" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testMutableElement" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testAddWhenUnsorted" classname="javafx.collections.SortedListTest" time="0.001"/>
+  <testcase name="testRemoveWhenUnsorted" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testSetWhenUnsorted" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testNoChange" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testPermutate" classname="javafx.collections.SortedListTest" time="0.002"/>
+  <testcase name="testUnsorted2" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testRemoveSingle" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testSourceIndex" classname="javafx.collections.SortedListTest" time="0.001"/>
+  <testcase name="testCompareNulls" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testUnsorted" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testAddSingle" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <testcase name="testPureRemove" classname="javafx.collections.SortedListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2018-12-24T19:03:11" hostname="DESKTOP-CFPL3NK" time="0.129">
+  <properties/>
+  <testcase name="testUnbind_X_Self[0]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.001"/>
+  <testcase name="testUnbind_Null_X[0]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.0"/>
+  <testcase name="testUnbind_X_Null[0]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.0"/>
+  <testcase name="testWeakReferencing[0]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.037"/>
+  <testcase name="testBind[0]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.016"/>
+  <testcase name="testUnbind[0]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.021"/>
+  <testcase name="testBind_Null_X[0]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.0"/>
+  <testcase name="testBind_X_Null[0]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.001"/>
+  <testcase name="testUnbind_X_Self[1]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.0"/>
+  <testcase name="testUnbind_Null_X[1]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.0"/>
+  <testcase name="testUnbind_X_Null[1]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.0"/>
+  <testcase name="testWeakReferencing[1]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.026"/>
+  <testcase name="testBind[1]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.009"/>
+  <testcase name="testUnbind[1]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.017"/>
+  <testcase name="testBind_Null_X[1]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.0"/>
+  <testcase name="testBind_X_Null[1]" classname="com.sun.javafx.binding.BidirectionalBindingWithConversionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
