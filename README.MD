@@ -1,0 +1,1 @@
+Clone of openJFX8 modified to work with adoptOpenJDK8 out of the box on Windows 10, CentOS5+.
