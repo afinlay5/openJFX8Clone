@@ -1,4 +1,4 @@
-#How to build openJFX 8 on Windows from source
+# How to build openJFX 8 on Windows from source
 ![alt text](https://raw.githubusercontent.com/afinlay5/openJFX8Clone/master/blog.png)
 
 Clone of openJFX8 modified to work with adoptOpenJDK8 out of the box on Windows 10, CentOS5+.
